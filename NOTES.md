@@ -39,3 +39,6 @@ Q: Why 25440 and not ?
 A: check/verify - some genesis mooncat (blocks) still unreleased?
 or dataset incomplete??
 
+Genesis cats are not "rescued" but rather "released" by the contract owners. 
+If those original project owners re-emerge, they'd have the ability to release more Genesis cats.
+
