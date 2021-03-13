@@ -1314,16 +1314,6 @@ abstract contract Context {
 pragma solidity ^0.7.6;
 
 
-
-
-
-
-
-
-
-
-
-
 /**
  * @title ERC721 Non-Fungible Token Standard basic implementation
  * @dev see https://eips.ethereum.org/EIPS/eip-721
