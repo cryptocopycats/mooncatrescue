@@ -8,14 +8,14 @@
 Mooncats dataset in comma-separated values (CSV) format
 in blocks of a thousand cats each
 (e.g.
-`000.csv` incl. 0x0000020886-0x000a05b9ac,
-`001.csv` incl. 0x000a0a11c8-0x0013b68a2f,
-`002.csv` incl. 0x0013b72770-0x001e26e929,
+`00.csv` incl. 0x0000020886-0x000a05b9ac,
+`01.csv` incl. 0x000a0a11c8-0x0013b68a2f,
+`02.csv` incl. 0x0013b72770-0x001e26e929,
 and so on).
 The data records for cats
 incl. id, palette, design, colars in rbg and hsl (hue, sat, lum)
 and more.
-Example - [`000.csv`](000.csv):
+Example - [`00.csv`](00.csv):
 
 
 ```
