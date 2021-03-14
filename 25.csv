@@ -1,441 +1,441 @@
-row, id, palette, design, pose, facing, color, r, g, b, hue, sat, lum, mint
-25000, 0x00fcbd430b, Inverted, 124, Standing, Right, Red, 189, 67, 11, 18.88, 89.00%, 39.22%, 3663
-25001, 0x00fcbe0edd, Inverted, 124, Standing, Right, Purple, 190, 14, 221, 291.01, 88.09%, 46.08%, 19276
-25002, 0x00fcbf7c8a, Inverted, 124, Standing, Right, Fuscia, 191, 124, 138, 347.46, 34.36%, 61.76%, 11222
-25003, 0x00fcc4122a, Inverted, 124, Standing, Right, Fuscia, 196, 18, 42, 351.91, 83.18%, 41.96%, 18741
-25004, 0x00fcc5f84f, Inverted, 124, Standing, Right, Yellow, 197, 248, 79, 78.11, 92.35%, 64.12%, 24680
-25005, 0x00fcc610a6, Inverted, 124, Standing, Right, Magenta, 198, 16, 166, 310.55, 85.05%, 41.96%, 10051
-25006, 0x00fcc6f4e3, Inverted, 124, Standing, Right, Lime Green, 198, 244, 227, 157.83, 67.65%, 86.67%, 6172
-25007, 0x00fcce5192, Inverted, 124, Standing, Right, Magenta, 206, 81, 146, 328.80, 56.05%, 56.27%, 5068
-25008, 0x00fcd0cf64, Inverted, 124, Standing, Right, Orange, 208, 207, 100, 59.44, 53.47%, 60.39%, 1026
-25009, 0x00fcd25ee4, Inverted, 124, Standing, Right, Purple, 210, 94, 228, 291.94, 71.28%, 63.14%, 11959
-25010, 0x00fcd3401e, Inverted, 124, Standing, Right, Red, 211, 64, 30, 11.27, 75.10%, 47.25%, 16776
-25011, 0x00fcd3540c, Inverted, 124, Standing, Right, Red, 211, 84, 12, 21.71, 89.24%, 43.73%, 11802
-25012, 0x00fcd465c7, Inverted, 124, Standing, Right, Magenta, 212, 101, 199, 307.03, 56.35%, 61.37%, 17200
-25013, 0x00fcd5c32b, Inverted, 124, Standing, Right, Orange, 213, 195, 43, 53.65, 66.93%, 50.20%, 24666
-25014, 0x00fcd7835e, Inverted, 124, Standing, Right, Red, 215, 131, 94, 18.35, 60.20%, 60.59%, 3290
-25015, 0x00fce17716, Inverted, 124, Standing, Right, Red, 225, 119, 22, 28.67, 82.19%, 48.43%, 11417
-25016, 0x00fce21cbf, Inverted, 124, Standing, Right, Magenta, 226, 28, 191, 310.61, 77.95%, 49.80%, 23467
-25017, 0x00fce37266, Inverted, 124, Standing, Right, Red, 227, 114, 102, 5.76, 69.06%, 64.51%, 15164
-25018, 0x00fce5135d, Inverted, 124, Standing, Right, Fuscia, 229, 19, 93, 338.86, 84.68%, 48.63%, 18076
-25019, 0x00fcebe723, Inverted, 124, Standing, Right, Orange, 235, 231, 35, 58.80, 83.33%, 52.94%, 15150
-25020, 0x00fcecc329, Inverted, 124, Standing, Right, Orange, 236, 195, 41, 47.38, 83.69%, 54.31%, 22345
-25021, 0x00fcfb0221, Inverted, 124, Standing, Right, Fuscia, 251, 2, 33, 352.53, 98.42%, 49.61%, 14453
-25022, 0x00fcfba629, Inverted, 124, Standing, Right, Orange, 251, 166, 41, 35.71, 96.33%, 57.25%, 14643
-25023, 0x00fcfd0622, Inverted, 124, Standing, Right, Fuscia, 253, 6, 34, 353.20, 98.41%, 50.78%, 4674
-25024, 0x00fcfd1209, Inverted, 124, Standing, Right, Red, 253, 18, 9, 2.21, 98.39%, 51.37%, 23276
-25025, 0x00fcffb5e3, Inverted, 124, Standing, Right, Magenta, 255, 181, 227, 322.70, 100.00%, 85.49%, 10832
-25026, 0x00fcffd578, Inverted, 124, Standing, Right, Orange, 255, 213, 120, 41.33, 100.00%, 73.53%, 22551
-25027, 0x00fcffe7c2, Inverted, 124, Standing, Right, Orange, 255, 231, 194, 36.39, 100.00%, 88.04%, 16278
-25028, 0x00fd00e3c2, Inverted, 125, Sleeping, Right, Lime Green, 0, 227, 194, 171.28, 100.00%, 44.51%, 1308
-25029, 0x00fd05b5ec, Inverted, 125, Sleeping, Right, Cyan, 5, 181, 236, 194.29, 95.85%, 47.25%, 7459
-25030, 0x00fd08720f, Inverted, 125, Sleeping, Right, Green, 8, 114, 15, 123.96, 86.89%, 23.92%, 3542
-25031, 0x00fd0d5010, Inverted, 125, Sleeping, Right, Green, 13, 80, 16, 122.69, 72.04%, 18.24%, 15940
-25032, 0x00fd107223, Inverted, 125, Sleeping, Right, Green, 16, 114, 35, 131.63, 75.38%, 25.49%, 15465
-25033, 0x00fd121a3e, Inverted, 125, Sleeping, Right, Sky Blue, 18, 26, 62, 229.09, 55.00%, 15.69%, 11487
-25034, 0x00fd12adf9, Inverted, 125, Sleeping, Right, Cyan, 18, 173, 249, 199.74, 95.06%, 52.35%, 20716
-25035, 0x00fd1c3c9b, Inverted, 125, Sleeping, Right, Sky Blue, 28, 60, 155, 224.88, 69.40%, 35.88%, 3642
-25036, 0x00fd1d9109, Inverted, 125, Sleeping, Right, Chartreuse, 29, 145, 9, 111.18, 88.31%, 30.20%, 10742
-25037, 0x00fd1e5f56, Inverted, 125, Sleeping, Right, Lime Green, 30, 95, 86, 171.69, 52.00%, 24.51%, 17325
-25038, 0x00fd1f7a6d, Inverted, 125, Sleeping, Right, Lime Green, 31, 122, 109, 171.43, 59.48%, 30.00%, 4037
-25039, 0x00fd1fd5df, Inverted, 125, Sleeping, Right, Cyan, 31, 213, 223, 183.12, 75.59%, 49.80%, 8943
-25040, 0x00fd21e2d8, Inverted, 125, Sleeping, Right, Lime Green, 33, 226, 216, 176.89, 76.89%, 50.78%, 7111
-25041, 0x00fd3103f6, Inverted, 125, Sleeping, Right, Blue, 49, 3, 246, 251.36, 97.59%, 48.82%, 19995
-25042, 0x00fd3884a7, Inverted, 125, Sleeping, Right, Cyan, 56, 132, 167, 198.92, 49.78%, 43.73%, 16237
-25043, 0x00fd39b6e5, Inverted, 125, Sleeping, Right, Cyan, 57, 182, 229, 196.40, 76.79%, 56.08%, 6276
-25044, 0x00fd3a14fc, Inverted, 125, Sleeping, Right, Blue, 58, 20, 252, 249.83, 97.48%, 53.33%, 6753
-25045, 0x00fd3d9b2c, Inverted, 125, Sleeping, Right, Chartreuse, 61, 155, 44, 110.81, 55.78%, 39.02%, 5776
-25046, 0x00fd3f803e, Inverted, 125, Sleeping, Right, Chartreuse, 63, 128, 62, 119.09, 34.74%, 37.25%, 694
-25047, 0x00fd4693d4, Inverted, 125, Sleeping, Right, Cyan, 70, 147, 212, 207.46, 62.28%, 55.29%, 21174
-25048, 0x00fd4bfdd5, Inverted, 125, Sleeping, Right, Lime Green, 75, 253, 213, 166.52, 97.80%, 64.31%, 19840
-25049, 0x00fd51896d, Inverted, 125, Sleeping, Right, Lime Green, 81, 137, 109, 150.00, 25.69%, 42.75%, 6556
-25050, 0x00fd53968f, Inverted, 125, Sleeping, Right, Lime Green, 83, 150, 143, 173.73, 28.76%, 45.69%, 5713
-25051, 0x00fd58d4f9, Inverted, 125, Sleeping, Right, Cyan, 88, 212, 249, 193.79, 93.06%, 66.08%, 11471
-25052, 0x00fd5b6405, Inverted, 125, Sleeping, Right, Yellow, 91, 100, 5, 65.68, 90.48%, 20.59%, 21926
-25053, 0x00fd60849b, Inverted, 125, Sleeping, Right, Cyan, 96, 132, 155, 203.39, 23.51%, 49.22%, 21485
-25054, 0x00fd641ac1, Inverted, 125, Sleeping, Right, Blue, 100, 26, 193, 266.59, 76.26%, 42.94%, 21167
-25055, 0x00fd651cb0, Inverted, 125, Sleeping, Right, Blue, 101, 28, 176, 269.59, 72.55%, 40.00%, 16016
-25056, 0x00fd681496, Inverted, 125, Sleeping, Right, Purple, 104, 20, 150, 278.77, 76.47%, 33.33%, 24817
-25057, 0x00fd6e88ea, Inverted, 125, Sleeping, Right, Sky Blue, 110, 136, 234, 227.42, 74.70%, 67.45%, 22762
-25058, 0x00fd722eea, Inverted, 125, Sleeping, Right, Blue, 114, 46, 234, 261.70, 81.74%, 54.90%, 2581
-25059, 0x00fd731e2e, Inverted, 125, Sleeping, Right, Fuscia, 115, 30, 46, 348.71, 58.62%, 28.43%, 7308
-25060, 0x00fd798a7e, Inverted, 125, Sleeping, Right, Green, 121, 138, 126, 137.65, 6.77%, 50.78%, 1856
-25061, 0x00fd7a6446, Inverted, 125, Sleeping, Right, Orange, 122, 100, 70, 34.62, 27.08%, 37.65%, 14099
-25062, 0x00fd7b7ef6, Inverted, 125, Sleeping, Right, Sky Blue, 123, 126, 246, 238.54, 87.23%, 72.35%, 18357
-25063, 0x00fd7c2253, Inverted, 125, Sleeping, Right, Magenta, 124, 34, 83, 327.33, 56.96%, 30.98%, 24296
-25064, 0x00fd7c24f4, Inverted, 125, Sleeping, Right, Blue, 124, 36, 244, 265.38, 90.43%, 54.90%, 8397
-25065, 0x00fd7cbd02, Inverted, 125, Sleeping, Right, Yellow, 124, 189, 2, 80.86, 97.91%, 37.45%, 23037
-25066, 0x00fd7ce348, Inverted, 125, Sleeping, Right, Chartreuse, 124, 227, 72, 99.87, 73.46%, 58.63%, 15328
-25067, 0x00fd7cfc04, Inverted, 125, Sleeping, Right, Chartreuse, 124, 252, 4, 90.97, 97.64%, 50.20%, 5697
-25068, 0x00fd7d4112, Inverted, 125, Sleeping, Right, Red, 125, 65, 18, 26.36, 74.83%, 28.04%, 15298
-25069, 0x00fd8023e9, Inverted, 125, Sleeping, Right, Blue, 128, 35, 233, 268.18, 81.82%, 52.55%, 5870
-25070, 0x00fd83dc18, Inverted, 125, Sleeping, Right, Yellow, 131, 220, 24, 87.24, 80.33%, 47.84%, 20702
-25071, 0x00fd849b6d, Inverted, 125, Sleeping, Right, Yellow, 132, 155, 109, 90.00, 18.70%, 51.76%, 7430
-25072, 0x00fd8a58b1, Inverted, 125, Sleeping, Right, Purple, 138, 88, 177, 273.71, 36.33%, 51.96%, 984
-25073, 0x00fd8f3cdd, Inverted, 125, Sleeping, Right, Purple, 143, 60, 221, 270.93, 70.31%, 55.10%, 15210
-25074, 0x00fd93ea04, Inverted, 125, Sleeping, Right, Yellow, 147, 234, 4, 82.70, 96.64%, 46.67%, 9656
-25075, 0x00fd946e22, Inverted, 125, Sleeping, Right, Orange, 148, 110, 34, 40.00, 62.64%, 35.69%, 18185
-25076, 0x00fd96b711, Inverted, 125, Sleeping, Right, Yellow, 150, 183, 17, 71.93, 83.00%, 39.22%, 25113
-25077, 0x00fd97626e, Inverted, 125, Sleeping, Right, Fuscia, 151, 98, 110, 346.42, 21.29%, 48.82%, 15599
-25078, 0x00fd976398, Inverted, 125, Sleeping, Right, Purple, 151, 99, 152, 298.87, 21.12%, 49.22%, 10756
-25079, 0x00fd9788f3, Inverted, 125, Sleeping, Right, Blue, 151, 136, 243, 248.41, 81.68%, 74.31%, 21233
-25080, 0x00fd981df4, Inverted, 125, Sleeping, Right, Purple, 152, 29, 244, 274.33, 90.72%, 53.53%, 13430
-25081, 0x00fd996d81, Inverted, 125, Sleeping, Right, Fuscia, 153, 109, 129, 332.73, 17.74%, 51.37%, 10271
-25082, 0x00fd9a41ba, Inverted, 125, Sleeping, Right, Purple, 154, 65, 186, 284.13, 48.21%, 49.22%, 10655
-25083, 0x00fd9cb4b5, Inverted, 125, Sleeping, Right, Cyan, 156, 180, 181, 182.40, 14.45%, 66.08%, 7412
-25084, 0x00fd9e1b8b, Inverted, 125, Sleeping, Right, Magenta, 158, 27, 139, 308.70, 70.81%, 36.27%, 14455
-25085, 0x00fdad337e, Inverted, 125, Sleeping, Right, Magenta, 173, 51, 126, 323.11, 54.46%, 43.92%, 4762
-25086, 0x00fdb10d9c, Inverted, 125, Sleeping, Right, Magenta, 177, 13, 156, 307.68, 86.32%, 37.25%, 1186
-25087, 0x00fdb16d5f, Inverted, 125, Sleeping, Right, Red, 177, 109, 95, 10.24, 34.45%, 53.33%, 21252
-25088, 0x00fdb3904b, Inverted, 125, Sleeping, Right, Orange, 179, 144, 75, 39.81, 40.94%, 49.80%, 20906
-25089, 0x00fdbad020, Inverted, 125, Sleeping, Right, Yellow, 186, 208, 32, 67.50, 73.33%, 47.06%, 4158
-25090, 0x00fdc23a27, Inverted, 125, Sleeping, Right, Red, 194, 58, 39, 7.35, 66.52%, 45.69%, 10431
-25091, 0x00fdc2f539, Inverted, 125, Sleeping, Right, Yellow, 194, 245, 57, 76.28, 90.38%, 59.22%, 23669
-25092, 0x00fdc493dd, Inverted, 125, Sleeping, Right, Purple, 196, 147, 221, 279.73, 52.11%, 72.16%, 10576
-25093, 0x00fdc58cd8, Inverted, 125, Sleeping, Right, Purple, 197, 140, 216, 285.00, 49.35%, 69.80%, 13142
-25094, 0x00fdd2d25d, Inverted, 125, Sleeping, Right, Yellow, 210, 210, 93, 60.00, 56.52%, 59.41%, 15214
-25095, 0x00fdd33ab9, Inverted, 125, Sleeping, Right, Magenta, 211, 58, 185, 310.20, 63.49%, 52.75%, 3910
-25096, 0x00fdd4f7fd, Inverted, 125, Sleeping, Right, Cyan, 212, 247, 253, 188.78, 91.11%, 91.18%, 17688
-25097, 0x00fdd5633c, Inverted, 125, Sleeping, Right, Red, 213, 99, 60, 15.29, 64.56%, 53.53%, 18773
-25098, 0x00fdd7f358, Inverted, 125, Sleeping, Right, Yellow, 215, 243, 88, 70.84, 86.59%, 64.90%, 6727
-25099, 0x00fddbad98, Inverted, 125, Sleeping, Right, Red, 219, 173, 152, 18.81, 48.20%, 72.75%, 19785
-25100, 0x00fddc38d3, Inverted, 125, Sleeping, Right, Magenta, 220, 56, 211, 303.29, 70.09%, 54.12%, 17160
-25101, 0x00fddf524c, Inverted, 125, Sleeping, Right, Red, 223, 82, 76, 2.45, 69.67%, 58.63%, 15755
-25102, 0x00fddf9483, Inverted, 125, Sleeping, Right, Red, 223, 148, 131, 11.09, 58.97%, 69.41%, 23255
-25103, 0x00fddfad2d, Inverted, 125, Sleeping, Right, Orange, 223, 173, 45, 43.15, 73.55%, 52.55%, 12189
-25104, 0x00fde205e7, Inverted, 125, Sleeping, Right, Purple, 226, 5, 231, 298.67, 95.76%, 46.27%, 15098
-25105, 0x00fde7e702, Inverted, 125, Sleeping, Right, Yellow, 231, 231, 2, 60.00, 98.28%, 45.69%, 3009
-25106, 0x00fdebf3a1, Inverted, 125, Sleeping, Right, Yellow, 235, 243, 161, 65.85, 77.36%, 79.22%, 23466
-25107, 0x00fdef41cc, Inverted, 125, Sleeping, Right, Magenta, 239, 65, 204, 312.07, 84.47%, 59.61%, 21321
-25108, 0x00fdf05753, Inverted, 125, Sleeping, Right, Red, 240, 87, 83, 1.53, 83.96%, 63.33%, 11715
-25109, 0x00fdf901a0, Inverted, 125, Sleeping, Right, Magenta, 249, 1, 160, 321.53, 99.20%, 49.02%, 1073
-25110, 0x00fdfa7ac4, Inverted, 125, Sleeping, Right, Magenta, 250, 122, 196, 325.31, 92.75%, 72.94%, 21053
-25111, 0x00fdfb719b, Inverted, 125, Sleeping, Right, Fuscia, 251, 113, 155, 341.74, 94.52%, 71.37%, 2292
-25112, 0x00fdfbef6b, Inverted, 125, Sleeping, Right, Orange, 251, 239, 107, 55.00, 94.74%, 70.20%, 13971
-25113, 0x00fdfd83df, Inverted, 125, Sleeping, Right, Magenta, 253, 131, 223, 314.75, 96.83%, 75.29%, 11681
-25114, 0x00fe087067, Inverted, 126, Pouncing, Right, Lime Green, 8, 112, 103, 174.81, 86.67%, 23.53%, 25190
-25115, 0x00fe08bd32, Inverted, 126, Pouncing, Right, Green, 8, 189, 50, 133.92, 91.88%, 38.63%, 12829
-25116, 0x00fe09f4cb, Inverted, 126, Pouncing, Right, Lime Green, 9, 244, 203, 169.53, 92.89%, 49.61%, 5213
-25117, 0x00fe0d8b81, Inverted, 126, Pouncing, Right, Lime Green, 13, 139, 129, 175.24, 82.89%, 29.80%, 21175
-25118, 0x00fe0ef7e1, Inverted, 126, Pouncing, Right, Lime Green, 14, 247, 225, 174.33, 93.57%, 51.18%, 25345
-25119, 0x00fe114384, Inverted, 126, Pouncing, Right, Sky Blue, 17, 67, 132, 213.91, 77.18%, 29.22%, 20687
-25120, 0x00fe14d6f8, Inverted, 126, Pouncing, Right, Cyan, 20, 214, 248, 188.95, 94.21%, 52.55%, 6816
-25121, 0x00fe14fcbc, Inverted, 126, Pouncing, Right, Lime Green, 20, 252, 188, 163.45, 97.48%, 53.33%, 1210
-25122, 0x00fe16c09c, Inverted, 126, Pouncing, Right, Lime Green, 22, 192, 156, 167.29, 79.44%, 41.96%, 9207
-25123, 0x00fe170d28, Inverted, 126, Pouncing, Right, Blue, 23, 13, 40, 262.22, 50.94%, 10.39%, 13503
-25124, 0x00fe1910c5, Inverted, 126, Pouncing, Right, Blue, 25, 16, 197, 242.98, 84.98%, 41.76%, 17278
-25125, 0x00fe19d6e7, Inverted, 126, Pouncing, Right, Cyan, 25, 214, 231, 184.95, 81.10%, 50.20%, 5433
-25126, 0x00fe1d197a, Inverted, 126, Pouncing, Right, Blue, 29, 25, 122, 242.47, 65.99%, 28.82%, 8552
-25127, 0x00fe1dd709, Inverted, 126, Pouncing, Right, Chartreuse, 29, 215, 9, 114.17, 91.96%, 43.92%, 13506
-25128, 0x00fe1ea68c, Inverted, 126, Pouncing, Right, Lime Green, 30, 166, 140, 168.53, 69.39%, 38.43%, 21246
-25129, 0x00fe20478a, Inverted, 126, Pouncing, Right, Sky Blue, 32, 71, 138, 217.92, 62.35%, 33.33%, 22691
-25130, 0x00fe20aff3, Inverted, 126, Pouncing, Right, Cyan, 32, 175, 243, 199.34, 89.79%, 53.92%, 17566
-25131, 0x00fe20b6ed, Inverted, 126, Pouncing, Right, Cyan, 32, 182, 237, 196.10, 85.06%, 52.75%, 6382
-25132, 0x00fe2147e5, Inverted, 126, Pouncing, Right, Sky Blue, 33, 71, 229, 228.37, 79.03%, 51.37%, 17022
-25133, 0x00fe21ef76, Inverted, 126, Pouncing, Right, Green, 33, 239, 118, 144.76, 86.55%, 53.33%, 7692
-25134, 0x00fe230600, Inverted, 126, Pouncing, Right, Red, 35, 6, 0, 10.29, 100.00%, 6.86%, 13794
-25135, 0x00fe26d6b9, Inverted, 126, Pouncing, Right, Lime Green, 38, 214, 185, 170.11, 69.84%, 49.41%, 6160
-25136, 0x00fe29721e, Inverted, 126, Pouncing, Right, Chartreuse, 41, 114, 30, 112.14, 58.33%, 28.24%, 3058
-25137, 0x00fe2a1c39, Inverted, 126, Pouncing, Right, Blue, 42, 28, 57, 268.97, 34.12%, 16.67%, 2145
-25138, 0x00fe2c97a4, Inverted, 126, Pouncing, Right, Cyan, 44, 151, 164, 186.50, 57.69%, 40.78%, 3426
-25139, 0x00fe2e22d2, Inverted, 126, Pouncing, Right, Blue, 46, 34, 210, 244.09, 72.13%, 47.84%, 8565
-25140, 0x00fe3016c4, Inverted, 126, Pouncing, Right, Blue, 48, 22, 196, 248.97, 79.82%, 42.75%, 9129
-25141, 0x00fe38eb2f, Inverted, 126, Pouncing, Right, Chartreuse, 56, 235, 47, 117.13, 82.46%, 55.29%, 4628
-25142, 0x00fe3fa12b, Inverted, 126, Pouncing, Right, Chartreuse, 63, 161, 43, 109.83, 57.84%, 40.00%, 9372
-25143, 0x00fe470a35, Inverted, 126, Pouncing, Right, Magenta, 71, 10, 53, 317.70, 75.31%, 15.88%, 4752
-25144, 0x00fe48ddfd, Inverted, 126, Pouncing, Right, Cyan, 72, 221, 253, 190.61, 97.84%, 63.73%, 8682
-25145, 0x00fe497895, Inverted, 126, Pouncing, Right, Cyan, 73, 120, 149, 202.89, 34.23%, 43.53%, 19049
-25146, 0x00fe49b7c2, Inverted, 126, Pouncing, Right, Cyan, 73, 183, 194, 185.45, 49.79%, 52.35%, 24706
-25147, 0x00fe50e7c2, Inverted, 126, Pouncing, Right, Lime Green, 80, 231, 194, 165.30, 75.88%, 60.98%, 24298
-25148, 0x00fe51e0b9, Inverted, 126, Pouncing, Right, Lime Green, 81, 224, 185, 163.64, 69.76%, 59.80%, 6325
-25149, 0x00fe54c1e3, Inverted, 126, Pouncing, Right, Cyan, 84, 193, 227, 194.27, 71.86%, 60.98%, 10503
-25150, 0x00fe56759d, Inverted, 126, Pouncing, Right, Sky Blue, 86, 117, 157, 213.80, 29.22%, 47.65%, 17021
-25151, 0x00fe57218e, Inverted, 126, Pouncing, Right, Blue, 87, 33, 142, 269.72, 62.29%, 34.31%, 20649
-25152, 0x00fe58beee, Inverted, 126, Pouncing, Right, Cyan, 88, 190, 238, 199.20, 81.52%, 63.92%, 15674
-25153, 0x00fe5b6239, Inverted, 126, Pouncing, Right, Yellow, 91, 98, 57, 70.24, 26.45%, 30.39%, 3235
-25154, 0x00fe5f1444, Inverted, 126, Pouncing, Right, Magenta, 95, 20, 68, 321.60, 65.22%, 22.55%, 6656
-25155, 0x00fe60fb47, Inverted, 126, Pouncing, Right, Chartreuse, 96, 251, 71, 111.67, 95.74%, 63.14%, 4306
-25156, 0x00fe62f668, Inverted, 126, Pouncing, Right, Green, 98, 246, 104, 122.43, 89.16%, 67.45%, 224
-25157, 0x00fe665e62, Inverted, 126, Pouncing, Right, Fuscia, 102, 94, 98, 330.00, 4.08%, 38.43%, 5047
-25158, 0x00fe695de4, Inverted, 126, Pouncing, Right, Blue, 105, 93, 228, 245.33, 71.43%, 62.94%, 4933
-25159, 0x00fe69d693, Inverted, 126, Pouncing, Right, Green, 105, 214, 147, 143.12, 57.07%, 62.55%, 18333
-25160, 0x00fe6d2c55, Inverted, 126, Pouncing, Right, Magenta, 109, 44, 85, 322.15, 42.48%, 30.00%, 22974
-25161, 0x00fe6f8eaa, Inverted, 126, Pouncing, Right, Cyan, 111, 142, 170, 208.47, 25.76%, 55.10%, 17261
-25162, 0x00fe726682, Inverted, 126, Pouncing, Right, Blue, 114, 102, 130, 265.71, 12.07%, 45.49%, 11762
-25163, 0x00fe7502a4, Inverted, 126, Pouncing, Right, Purple, 117, 2, 164, 282.59, 97.59%, 32.55%, 13641
-25164, 0x00fe763a7d, Inverted, 126, Pouncing, Right, Purple, 118, 58, 125, 293.73, 36.61%, 35.88%, 17699
-25165, 0x00fe77e7fe, Inverted, 126, Pouncing, Right, Cyan, 119, 231, 254, 190.22, 98.54%, 73.14%, 2851
-25166, 0x00fe7839e6, Inverted, 126, Pouncing, Right, Blue, 120, 57, 230, 261.85, 77.58%, 56.27%, 18479
-25167, 0x00fe793902, Inverted, 126, Pouncing, Right, Red, 121, 57, 2, 27.73, 96.75%, 24.12%, 23859
-25168, 0x00fe7ca0dd, Inverted, 126, Pouncing, Right, Sky Blue, 124, 160, 221, 217.73, 58.79%, 67.65%, 17437
-25169, 0x00fe7d48ec, Inverted, 126, Pouncing, Right, Blue, 125, 72, 236, 259.39, 81.19%, 60.39%, 23384
-25170, 0x00fe7dbebf, Inverted, 126, Pouncing, Right, Cyan, 125, 190, 191, 180.91, 34.02%, 61.96%, 14909
-25171, 0x00fe7ea90b, Inverted, 126, Pouncing, Right, Yellow, 126, 169, 11, 76.33, 87.78%, 35.29%, 15636
-25172, 0x00fe826dac, Inverted, 126, Pouncing, Right, Blue, 130, 109, 172, 260.00, 27.51%, 55.10%, 23256
-25173, 0x00fe829b09, Inverted, 126, Pouncing, Right, Yellow, 130, 155, 9, 70.27, 89.02%, 32.16%, 4505
-25174, 0x00fe8403b5, Inverted, 126, Pouncing, Right, Purple, 132, 3, 181, 283.48, 96.74%, 36.08%, 13860
-25175, 0x00fe8edb88, Inverted, 126, Pouncing, Right, Chartreuse, 142, 219, 136, 115.66, 53.55%, 69.61%, 9006
-25176, 0x00fe8fd15c, Inverted, 126, Pouncing, Right, Chartreuse, 143, 209, 92, 93.85, 55.98%, 59.02%, 6937
-25177, 0x00fe926517, Inverted, 126, Pouncing, Right, Orange, 146, 101, 23, 38.05, 72.78%, 33.14%, 15064
-25178, 0x00fe9463d0, Inverted, 126, Pouncing, Right, Blue, 148, 99, 208, 266.97, 53.69%, 60.20%, 13881
-25179, 0x00fe95e84c, Inverted, 126, Pouncing, Right, Chartreuse, 149, 232, 76, 91.92, 77.23%, 60.39%, 23341
-25180, 0x00fe98be26, Inverted, 126, Pouncing, Right, Yellow, 152, 190, 38, 75.00, 66.67%, 44.71%, 16654
-25181, 0x00fe99725d, Inverted, 126, Pouncing, Right, Red, 153, 114, 93, 21.00, 24.39%, 48.24%, 11618
-25182, 0x00fe9d21d3, Inverted, 126, Pouncing, Right, Purple, 157, 33, 211, 281.80, 72.95%, 47.84%, 12551
-25183, 0x00fe9edafa, Inverted, 126, Pouncing, Right, Cyan, 158, 218, 250, 200.87, 90.20%, 80.00%, 19017
-25184, 0x00fea0759a, Inverted, 126, Pouncing, Right, Magenta, 160, 117, 154, 308.37, 18.45%, 54.31%, 24900
-25185, 0x00fea119d7, Inverted, 126, Pouncing, Right, Purple, 161, 25, 215, 282.95, 79.17%, 47.06%, 11175
-25186, 0x00fea1517f, Inverted, 126, Pouncing, Right, Magenta, 161, 81, 127, 325.50, 33.06%, 47.45%, 3428
-25187, 0x00fea3140c, Inverted, 126, Pouncing, Right, Red, 163, 20, 12, 3.18, 86.29%, 34.31%, 9912
-25188, 0x00fea3dd9c, Inverted, 126, Pouncing, Right, Chartreuse, 163, 221, 156, 113.54, 48.87%, 73.92%, 13552
-25189, 0x00fea4df09, Inverted, 126, Pouncing, Right, Yellow, 164, 223, 9, 76.54, 92.24%, 45.49%, 2591
-25190, 0x00feaad2a5, Inverted, 126, Pouncing, Right, Chartreuse, 170, 210, 165, 113.33, 33.33%, 73.53%, 21296
-25191, 0x00feab7e47, Inverted, 126, Pouncing, Right, Orange, 171, 126, 71, 33.00, 41.32%, 47.45%, 3885
-25192, 0x00feab941a, Inverted, 126, Pouncing, Right, Orange, 171, 148, 26, 50.48, 73.60%, 38.63%, 4778
-25193, 0x00feacd85c, Inverted, 126, Pouncing, Right, Yellow, 172, 216, 92, 81.29, 61.39%, 60.39%, 20667
-25194, 0x00feb0704c, Inverted, 126, Pouncing, Right, Red, 176, 112, 76, 21.60, 39.68%, 49.41%, 1697
-25195, 0x00feb0765c, Inverted, 126, Pouncing, Right, Red, 176, 118, 92, 18.57, 34.71%, 52.55%, 1712
-25196, 0x00feb59b39, Inverted, 126, Pouncing, Right, Orange, 181, 155, 57, 47.42, 52.10%, 46.67%, 21820
-25197, 0x00feb7a5ab, Inverted, 126, Pouncing, Right, Fuscia, 183, 165, 171, 340.00, 11.11%, 68.24%, 2107
-25198, 0x00febaad18, Inverted, 126, Pouncing, Right, Orange, 186, 173, 24, 55.19, 77.14%, 41.18%, 18039
-25199, 0x00febc609d, Inverted, 126, Pouncing, Right, Magenta, 188, 96, 157, 320.22, 40.71%, 55.69%, 12473
-25200, 0x00febce253, Inverted, 126, Pouncing, Right, Yellow, 188, 226, 83, 75.94, 71.14%, 60.59%, 17436
-25201, 0x00febed9a1, Inverted, 126, Pouncing, Right, Yellow, 190, 217, 161, 88.93, 42.42%, 74.12%, 21295
-25202, 0x00fec32bd0, Inverted, 126, Pouncing, Right, Purple, 195, 43, 208, 295.27, 65.74%, 49.22%, 10480
-25203, 0x00fec630e5, Inverted, 126, Pouncing, Right, Purple, 198, 48, 229, 289.72, 77.68%, 54.31%, 5640
-25204, 0x00fec72a00, Inverted, 126, Pouncing, Right, Red, 199, 42, 0, 12.66, 100.00%, 39.02%, 8631
-25205, 0x00fec79443, Inverted, 126, Pouncing, Right, Orange, 199, 148, 67, 36.82, 54.10%, 52.16%, 16226
-25206, 0x00fecb13e1, Inverted, 126, Pouncing, Right, Purple, 203, 19, 225, 293.59, 84.43%, 47.84%, 6214
-25207, 0x00fecbaeb6, Inverted, 126, Pouncing, Right, Fuscia, 203, 174, 182, 343.45, 21.80%, 73.92%, 9571
-25208, 0x00fecc148b, Inverted, 126, Pouncing, Right, Magenta, 204, 20, 139, 321.20, 82.14%, 43.92%, 14921
-25209, 0x00fecc57a7, Inverted, 126, Pouncing, Right, Magenta, 204, 87, 167, 318.97, 53.42%, 57.06%, 1133
-25210, 0x00fecc9365, Inverted, 126, Pouncing, Right, Red, 204, 147, 101, 26.80, 50.24%, 59.80%, 25302
-25211, 0x00fed0746e, Inverted, 126, Pouncing, Right, Red, 208, 116, 110, 3.67, 51.04%, 62.35%, 17209
-25212, 0x00fed827b8, Inverted, 126, Pouncing, Right, Magenta, 216, 39, 184, 310.85, 69.41%, 50.00%, 2431
-25213, 0x00fed9824b, Inverted, 126, Pouncing, Right, Red, 217, 130, 75, 23.24, 65.14%, 57.25%, 16743
-25214, 0x00feda82cf, Inverted, 126, Pouncing, Right, Magenta, 218, 130, 207, 307.50, 54.32%, 68.24%, 7022
-25215, 0x00fedb9c48, Inverted, 126, Pouncing, Right, Orange, 219, 156, 72, 34.29, 67.12%, 57.06%, 11455
-25216, 0x00fedcaab7, Inverted, 126, Pouncing, Right, Fuscia, 220, 170, 183, 344.40, 41.67%, 76.47%, 23804
-25217, 0x00fedcb3ff, Inverted, 126, Pouncing, Right, Purple, 220, 179, 255, 272.37, 100.00%, 85.10%, 1129
-25218, 0x00fedcf029, Inverted, 126, Pouncing, Right, Yellow, 220, 240, 41, 66.03, 86.90%, 55.10%, 14474
-25219, 0x00fee01b62, Inverted, 126, Pouncing, Right, Fuscia, 224, 27, 98, 338.38, 78.49%, 49.22%, 6132
-25220, 0x00fee5ad2b, Inverted, 126, Pouncing, Right, Orange, 229, 173, 43, 41.94, 78.15%, 53.33%, 20057
-25221, 0x00fee5edc0, Inverted, 126, Pouncing, Right, Yellow, 229, 237, 192, 70.67, 55.56%, 84.12%, 2499
-25222, 0x00fee60980, Inverted, 126, Pouncing, Right, Magenta, 230, 9, 128, 327.69, 92.47%, 46.86%, 19793
-25223, 0x00fee6fbe1, Inverted, 126, Pouncing, Right, Chartreuse, 230, 251, 225, 108.46, 76.47%, 93.33%, 7147
-25224, 0x00fee864f0, Inverted, 126, Pouncing, Right, Purple, 232, 100, 240, 296.57, 82.35%, 66.67%, 15824
-25225, 0x00feea4e71, Inverted, 126, Pouncing, Right, Fuscia, 234, 78, 113, 346.54, 78.79%, 61.18%, 8557
-25226, 0x00feea76ac, Inverted, 126, Pouncing, Right, Fuscia, 234, 118, 172, 332.07, 73.42%, 69.02%, 4333
-25227, 0x00feed362b, Inverted, 126, Pouncing, Right, Red, 237, 54, 43, 3.40, 84.35%, 54.90%, 23355
-25228, 0x00feefac8e, Inverted, 126, Pouncing, Right, Red, 239, 172, 142, 18.56, 75.19%, 74.71%, 5033
-25229, 0x00feefed8c, Inverted, 126, Pouncing, Right, Orange, 239, 237, 140, 58.79, 75.57%, 74.31%, 9004
-25230, 0x00fef10ab7, Inverted, 126, Pouncing, Right, Magenta, 241, 10, 183, 315.06, 92.03%, 49.22%, 17220
-25231, 0x00fef1fc45, Inverted, 126, Pouncing, Right, Yellow, 241, 252, 69, 63.61, 96.83%, 62.94%, 2446
-25232, 0x00fef2e051, Inverted, 126, Pouncing, Right, Orange, 242, 224, 81, 53.29, 86.10%, 63.33%, 23828
-25233, 0x00fef7fd29, Inverted, 126, Pouncing, Right, Yellow, 247, 253, 41, 61.70, 98.15%, 57.65%, 19822
-25234, 0x00fefb0003, Inverted, 126, Pouncing, Right, Fuscia, 251, 0, 3, 359.28, 100.00%, 49.22%, 9527
-25235, 0x00ff018170, Inverted, 127, Stalking, Right, Lime Green, 1, 129, 112, 172.03, 98.46%, 25.49%, 2454
-25236, 0x00ff04c1c0, Inverted, 127, Stalking, Right, Lime Green, 4, 193, 192, 179.68, 95.94%, 38.63%, 3319
-25237, 0x00ff08a894, Inverted, 127, Stalking, Right, Lime Green, 8, 168, 148, 172.50, 90.91%, 34.51%, 5817
-25238, 0x00ff095ea1, Inverted, 127, Stalking, Right, Cyan, 9, 94, 161, 206.45, 89.41%, 33.33%, 3745
-25239, 0x00ff0af4e6, Inverted, 127, Stalking, Right, Lime Green, 10, 244, 230, 176.41, 92.13%, 49.80%, 17698
-25240, 0x00ff0df95f, Inverted, 127, Stalking, Right, Green, 13, 249, 95, 140.85, 95.16%, 51.37%, 13217
-25241, 0x00ff0ea808, Inverted, 127, Stalking, Right, Chartreuse, 14, 168, 8, 117.75, 90.91%, 34.51%, 2134
-25242, 0x00ff0eff87, Inverted, 127, Stalking, Right, Lime Green, 14, 255, 135, 150.12, 100.00%, 52.75%, 2715
-25243, 0x00ff114239, Inverted, 127, Stalking, Right, Lime Green, 17, 66, 57, 168.98, 59.04%, 16.27%, 22894
-25244, 0x00ff173edd, Inverted, 127, Stalking, Right, Sky Blue, 23, 62, 221, 228.18, 81.15%, 47.84%, 12986
-25245, 0x00ff185a81, Inverted, 127, Stalking, Right, Cyan, 24, 90, 129, 202.29, 68.63%, 30.00%, 4845
-25246, 0x00ff18f391, Inverted, 127, Stalking, Right, Lime Green, 24, 243, 145, 153.15, 90.12%, 52.35%, 20371
-25247, 0x00ff1a523b, Inverted, 127, Stalking, Right, Lime Green, 26, 82, 59, 155.36, 51.85%, 21.18%, 6714
-25248, 0x00ff1aed17, Inverted, 127, Stalking, Right, Chartreuse, 26, 237, 23, 119.16, 85.60%, 50.98%, 2928
-25249, 0x00ff1c50ac, Inverted, 127, Stalking, Right, Sky Blue, 28, 80, 172, 218.33, 72.00%, 39.22%, 20531
-25250, 0x00ff1cfc56, Inverted, 127, Stalking, Right, Green, 28, 252, 86, 135.54, 97.39%, 54.90%, 4413
-25251, 0x00ff1f26a1, Inverted, 127, Stalking, Right, Sky Blue, 31, 38, 161, 236.77, 67.71%, 37.65%, 13726
-25252, 0x00ff1f4141, Inverted, 127, Stalking, Right, Cyan, 31, 65, 65, 180.00, 35.42%, 18.82%, 9901
-25253, 0x00ff21c2fd, Inverted, 127, Stalking, Right, Cyan, 33, 194, 253, 196.09, 98.21%, 56.08%, 20823
-25254, 0x00ff221ede, Inverted, 127, Stalking, Right, Blue, 34, 30, 222, 241.25, 76.19%, 49.41%, 19733
-25255, 0x00ff23398e, Inverted, 127, Stalking, Right, Sky Blue, 35, 57, 142, 227.66, 60.45%, 34.71%, 9631
-25256, 0x00ff241e90, Inverted, 127, Stalking, Right, Blue, 36, 30, 144, 243.16, 65.52%, 34.12%, 9939
-25257, 0x00ff247685, Inverted, 127, Stalking, Right, Cyan, 36, 118, 133, 189.28, 57.40%, 33.14%, 9879
-25258, 0x00ff3018c3, Inverted, 127, Stalking, Right, Blue, 48, 24, 195, 248.42, 78.08%, 42.94%, 7633
-25259, 0x00ff3fd4d1, Inverted, 127, Stalking, Right, Lime Green, 63, 212, 209, 178.79, 63.40%, 53.92%, 4767
-25260, 0x00ff438b15, Inverted, 127, Stalking, Right, Chartreuse, 67, 139, 21, 96.61, 73.75%, 31.37%, 3019
-25261, 0x00ff4455b9, Inverted, 127, Stalking, Right, Sky Blue, 68, 85, 185, 231.28, 46.25%, 49.61%, 6035
-25262, 0x00ff468aff, Inverted, 127, Stalking, Right, Sky Blue, 70, 138, 255, 217.95, 100.00%, 63.73%, 3364
-25263, 0x00ff4f0793, Inverted, 127, Stalking, Right, Purple, 79, 7, 147, 270.86, 90.91%, 30.20%, 15259
-25264, 0x00ff514d48, Inverted, 127, Stalking, Right, Orange, 81, 77, 72, 33.33, 5.88%, 30.00%, 20565
-25265, 0x00ff52322b, Inverted, 127, Stalking, Right, Red, 82, 50, 43, 10.77, 31.20%, 24.51%, 17069
-25266, 0x00ff5373c3, Inverted, 127, Stalking, Right, Sky Blue, 83, 115, 195, 222.86, 48.28%, 54.51%, 24556
-25267, 0x00ff5a20c9, Inverted, 127, Stalking, Right, Blue, 90, 32, 201, 260.59, 72.53%, 45.69%, 19530
-25268, 0x00ff5b4ada, Inverted, 127, Stalking, Right, Blue, 91, 74, 218, 247.08, 66.06%, 57.25%, 24945
-25269, 0x00ff5d3c44, Inverted, 127, Stalking, Right, Fuscia, 93, 60, 68, 345.45, 21.57%, 30.00%, 11115
-25270, 0x00ff5e7197, Inverted, 127, Stalking, Right, Sky Blue, 94, 113, 151, 220.00, 23.27%, 48.04%, 24186
-25271, 0x00ff5f2e72, Inverted, 127, Stalking, Right, Purple, 95, 46, 114, 283.24, 42.50%, 31.37%, 5448
-25272, 0x00ff622904, Inverted, 127, Stalking, Right, Red, 98, 41, 4, 23.62, 92.16%, 20.00%, 16720
-25273, 0x00ff626c50, Inverted, 127, Stalking, Right, Yellow, 98, 108, 80, 81.43, 14.89%, 36.86%, 22123
-25274, 0x00ff636f37, Inverted, 127, Stalking, Right, Yellow, 99, 111, 55, 72.86, 33.73%, 32.55%, 21352
-25275, 0x00ff64e3ff, Inverted, 127, Stalking, Right, Cyan, 100, 227, 255, 190.84, 100.00%, 69.61%, 12003
-25276, 0x00ff661c09, Inverted, 127, Stalking, Right, Red, 102, 28, 9, 12.26, 83.78%, 21.76%, 7229
-25277, 0x00ff6a5156, Inverted, 127, Stalking, Right, Fuscia, 106, 81, 86, 348.00, 13.37%, 36.67%, 10755
-25278, 0x00ff6aab3f, Inverted, 127, Stalking, Right, Chartreuse, 106, 171, 63, 96.11, 46.15%, 45.88%, 3222
-25279, 0x00ff6b27ae, Inverted, 127, Stalking, Right, Purple, 107, 39, 174, 270.22, 63.38%, 41.76%, 5685
-25280, 0x00ff6b6227, Inverted, 127, Stalking, Right, Orange, 107, 98, 39, 52.06, 46.58%, 28.63%, 25375
-25281, 0x00ff71ed7b, Inverted, 127, Stalking, Right, Green, 113, 237, 123, 124.84, 77.50%, 68.63%, 22759
-25282, 0x00ff753601, Inverted, 127, Stalking, Right, Red, 117, 54, 1, 27.41, 98.31%, 23.14%, 10572
-25283, 0x00ff75d200, Inverted, 127, Stalking, Right, Yellow, 117, 210, 0, 86.57, 100.00%, 41.18%, 6166
-25284, 0x00ff7675b1, Inverted, 127, Stalking, Right, Blue, 118, 117, 177, 241.00, 27.78%, 57.65%, 19491
-25285, 0x00ff7778db, Inverted, 127, Stalking, Right, Sky Blue, 119, 120, 219, 239.40, 58.14%, 66.27%, 8037
-25286, 0x00ff7a4e8e, Inverted, 127, Stalking, Right, Purple, 122, 78, 142, 281.25, 29.09%, 43.14%, 13280
-25287, 0x00ff7aac8d, Inverted, 127, Stalking, Right, Green, 122, 172, 141, 142.80, 23.15%, 57.65%, 19147
-25288, 0x00ff7b268a, Inverted, 127, Stalking, Right, Purple, 123, 38, 138, 291.00, 56.82%, 34.51%, 5232
-25289, 0x00ff7b7493, Inverted, 127, Stalking, Right, Blue, 123, 116, 147, 253.55, 12.55%, 51.57%, 4
-25290, 0x00ff7f634d, Inverted, 127, Stalking, Right, Red, 127, 99, 77, 26.40, 24.51%, 40.00%, 11880
-25291, 0x00ff7fed02, Inverted, 127, Stalking, Right, Yellow, 127, 237, 2, 88.09, 98.33%, 46.86%, 10551
-25292, 0x00ff846c7c, Inverted, 127, Stalking, Right, Magenta, 132, 108, 124, 320.00, 10.00%, 47.06%, 6797
-25293, 0x00ff8791a2, Inverted, 127, Stalking, Right, Sky Blue, 135, 145, 162, 217.78, 12.68%, 58.24%, 14337
-25294, 0x00ff87ce04, Inverted, 127, Stalking, Right, Yellow, 135, 206, 4, 81.09, 96.19%, 41.18%, 22734
-25295, 0x00ff8bd7bf, Inverted, 127, Stalking, Right, Lime Green, 139, 215, 191, 161.05, 48.72%, 69.41%, 11518
-25296, 0x00ff8d8bc4, Inverted, 127, Stalking, Right, Blue, 141, 139, 196, 242.11, 32.57%, 65.69%, 132
-25297, 0x00ff8d9206, Inverted, 127, Stalking, Right, Yellow, 141, 146, 6, 62.14, 92.11%, 29.80%, 947
-25298, 0x00ff8df569, Inverted, 127, Stalking, Right, Chartreuse, 141, 245, 105, 104.57, 87.50%, 68.63%, 20744
-25299, 0x00ff95110c, Inverted, 127, Stalking, Right, Red, 149, 17, 12, 2.19, 85.09%, 31.57%, 15025
-25300, 0x00ff988c36, Inverted, 127, Stalking, Right, Orange, 152, 140, 54, 52.65, 47.57%, 40.39%, 4693
-25301, 0x00ff9abb88, Inverted, 127, Stalking, Right, Chartreuse, 154, 187, 136, 98.82, 27.27%, 63.33%, 19669
-25302, 0x00ff9b5705, Inverted, 127, Stalking, Right, Orange, 155, 87, 5, 32.80, 93.75%, 31.37%, 12445
-25303, 0x00ffa11f35, Inverted, 127, Stalking, Right, Fuscia, 161, 31, 53, 349.85, 67.71%, 37.65%, 5112
-25304, 0x00ffa144e0, Inverted, 127, Stalking, Right, Purple, 161, 68, 224, 275.77, 71.56%, 57.25%, 22781
-25305, 0x00ffa1a9b1, Inverted, 127, Stalking, Right, Sky Blue, 161, 169, 177, 210.00, 9.30%, 66.27%, 6442
-25306, 0x00ffa37d25, Inverted, 127, Stalking, Right, Orange, 163, 125, 37, 41.90, 63.00%, 39.22%, 9859
-25307, 0x00ffa5d9a6, Inverted, 127, Stalking, Right, Green, 165, 217, 166, 121.15, 40.62%, 74.90%, 19473
-25308, 0x00ffa6bc72, Inverted, 127, Stalking, Right, Yellow, 166, 188, 114, 77.84, 35.58%, 59.22%, 10295
-25309, 0x00ffa92744, Inverted, 127, Stalking, Right, Fuscia, 169, 39, 68, 346.62, 62.50%, 40.78%, 19442
-25310, 0x00ffadb0b3, Inverted, 127, Stalking, Right, Sky Blue, 173, 176, 179, 210.00, 3.80%, 69.02%, 8536
-25311, 0x00ffaea0a5, Inverted, 127, Stalking, Right, Fuscia, 174, 160, 165, 338.57, 7.95%, 65.49%, 19443
-25312, 0x00ffaedc7f, Inverted, 127, Stalking, Right, Yellow, 174, 220, 127, 89.68, 57.06%, 68.04%, 21154
-25313, 0x00ffb4ac69, Inverted, 127, Stalking, Right, Orange, 180, 172, 105, 53.60, 33.33%, 55.88%, 12280
-25314, 0x00ffb60337, Inverted, 127, Stalking, Right, Fuscia, 182, 3, 55, 342.57, 96.76%, 36.27%, 20763
-25315, 0x00ffb77865, Inverted, 127, Stalking, Right, Red, 183, 120, 101, 13.90, 36.28%, 55.69%, 8425
-25316, 0x00ffbdf0b6, Inverted, 127, Stalking, Right, Chartreuse, 189, 240, 182, 112.76, 65.91%, 82.75%, 14477
-25317, 0x00ffbeb5e2, Inverted, 127, Stalking, Right, Blue, 190, 181, 226, 252.00, 43.69%, 79.80%, 14190
-25318, 0x00ffc5dacd, Inverted, 127, Stalking, Right, Green, 197, 218, 205, 142.86, 22.11%, 81.37%, 7353
-25319, 0x00ffc7e832, Inverted, 127, Stalking, Right, Yellow, 199, 232, 50, 70.88, 79.82%, 55.29%, 6418
-25320, 0x00ffc8d214, Inverted, 127, Stalking, Right, Yellow, 200, 210, 20, 63.16, 82.61%, 45.10%, 18589
-25321, 0x00ffc9191c, Inverted, 127, Stalking, Right, Fuscia, 201, 25, 28, 358.98, 77.88%, 44.31%, 9565
-25322, 0x00ffca49ef, Inverted, 127, Stalking, Right, Purple, 202, 73, 239, 286.63, 83.84%, 61.18%, 20761
-25323, 0x00ffccff81, Inverted, 127, Stalking, Right, Yellow, 204, 255, 129, 84.29, 100.00%, 75.29%, 4049
-25324, 0x00ffcddc8a, Inverted, 127, Stalking, Right, Yellow, 205, 220, 138, 70.98, 53.95%, 70.20%, 18342
-25325, 0x00ffd2c40f, Inverted, 127, Stalking, Right, Orange, 210, 196, 15, 55.69, 86.67%, 44.12%, 19080
-25326, 0x00ffd4003b, Inverted, 127, Stalking, Right, Fuscia, 212, 0, 59, 343.30, 100.00%, 41.57%, 14535
-25327, 0x00ffd74a4e, Inverted, 127, Stalking, Right, Fuscia, 215, 74, 78, 358.30, 63.80%, 56.67%, 3225
-25328, 0x00ffd888f5, Inverted, 127, Stalking, Right, Purple, 216, 136, 245, 284.04, 84.50%, 74.71%, 21409
-25329, 0x00ffd958c2, Inverted, 127, Stalking, Right, Magenta, 217, 88, 194, 310.70, 62.93%, 59.80%, 5761
-25330, 0x00ffda2dda, Inverted, 127, Stalking, Right, Magenta, 218, 45, 218, 300.00, 70.04%, 51.57%, 8428
-25331, 0x00ffdf5e32, Inverted, 127, Stalking, Right, Red, 223, 94, 50, 15.26, 73.00%, 53.53%, 15375
-25332, 0x00ffe28af6, Inverted, 127, Stalking, Right, Purple, 226, 138, 246, 288.89, 85.71%, 75.29%, 15700
-25333, 0x00ffe51966, Inverted, 127, Stalking, Right, Fuscia, 229, 25, 102, 337.35, 80.31%, 49.80%, 14575
-25334, 0x00ffe785f4, Inverted, 127, Stalking, Right, Purple, 231, 133, 244, 292.97, 83.46%, 73.92%, 16574
-25335, 0x00ffea1267, Inverted, 127, Stalking, Right, Fuscia, 234, 18, 103, 336.39, 85.71%, 49.41%, 18545
-25336, 0x00ffea9a81, Inverted, 127, Stalking, Right, Red, 234, 154, 129, 14.29, 71.43%, 71.18%, 23346
-25337, 0x00fff07350, Inverted, 127, Stalking, Right, Red, 240, 115, 80, 13.12, 84.21%, 62.75%, 9952
-25338, 0x00fff13744, Inverted, 127, Stalking, Right, Fuscia, 241, 55, 68, 355.81, 86.92%, 58.04%, 16355
-25339, 0x00fff32bb7, Inverted, 127, Stalking, Right, Magenta, 243, 43, 183, 318.00, 89.29%, 56.08%, 8363
-25340, 0x00fff42d6b, Inverted, 127, Stalking, Right, Fuscia, 244, 45, 107, 341.31, 90.05%, 56.67%, 22546
-25341, 0x00fff8ca90, Inverted, 127, Stalking, Right, Orange, 248, 202, 144, 33.46, 88.14%, 76.86%, 20210
-25342, 0x00fffadd32, Inverted, 127, Stalking, Right, Orange, 250, 221, 50, 51.30, 95.24%, 58.82%, 18395
-25343, 0x00ffffbe74, Inverted, 127, Stalking, Right, Orange, 255, 190, 116, 31.94, 100.00%, 72.75%, 23076
-25344, 0xff00000ca7, Normal, 0, Standing, Left, Black, 0, 12, 167, 235.69, 100.00%, 32.75%, 84
-25345, 0xff01000ca7, Normal, 1, Sleeping, Left, White, 0, 12, 167, 235.69, 100.00%, 32.75%, 85
-25346, 0xff02000ca7, Normal, 2, Pouncing, Left, Black, 0, 12, 167, 235.69, 100.00%, 32.75%, 86
-25347, 0xff03000ca7, Normal, 3, Stalking, Left, White, 0, 12, 167, 235.69, 100.00%, 32.75%, 87
-25348, 0xff04000ca7, Normal, 4, Standing, Left, Black, 0, 12, 167, 235.69, 100.00%, 32.75%, 88
-25349, 0xff05000ca7, Normal, 5, Sleeping, Left, White, 0, 12, 167, 235.69, 100.00%, 32.75%, 89
-25350, 0xff06000ca7, Normal, 6, Pouncing, Left, Black, 0, 12, 167, 235.69, 100.00%, 32.75%, 90
-25351, 0xff07000ca7, Normal, 7, Stalking, Left, White, 0, 12, 167, 235.69, 100.00%, 32.75%, 91
-25352, 0xff08000ca7, Normal, 8, Standing, Left, Black, 0, 12, 167, 235.69, 100.00%, 32.75%, 92
-25353, 0xff09000ca7, Normal, 9, Sleeping, Left, White, 0, 12, 167, 235.69, 100.00%, 32.75%, 93
-25354, 0xff0a000ca7, Normal, 10, Pouncing, Left, Black, 0, 12, 167, 235.69, 100.00%, 32.75%, 94
-25355, 0xff0b000ca7, Normal, 11, Stalking, Left, White, 0, 12, 167, 235.69, 100.00%, 32.75%, 95
-25356, 0xff0c000ca7, Normal, 12, Standing, Left, Black, 0, 12, 167, 235.69, 100.00%, 32.75%, 96
-25357, 0xff0d000ca7, Normal, 13, Sleeping, Left, White, 0, 12, 167, 235.69, 100.00%, 32.75%, 97
-25358, 0xff0e000ca7, Normal, 14, Pouncing, Left, Black, 0, 12, 167, 235.69, 100.00%, 32.75%, 98
-25359, 0xff0f000ca7, Normal, 15, Stalking, Left, White, 0, 12, 167, 235.69, 100.00%, 32.75%, 99
-25360, 0xff10000ca7, Normal, 16, Standing, Left, Black, 0, 12, 167, 235.69, 100.00%, 32.75%, 524
-25361, 0xff11000ca7, Normal, 17, Sleeping, Left, White, 0, 12, 167, 235.69, 100.00%, 32.75%, 525
-25362, 0xff12000ca7, Normal, 18, Pouncing, Left, Black, 0, 12, 167, 235.69, 100.00%, 32.75%, 526
-25363, 0xff13000ca7, Normal, 19, Stalking, Left, White, 0, 12, 167, 235.69, 100.00%, 32.75%, 527
-25364, 0xff14000ca7, Normal, 20, Standing, Left, Black, 0, 12, 167, 235.69, 100.00%, 32.75%, 528
-25365, 0xff15000ca7, Normal, 21, Sleeping, Left, White, 0, 12, 167, 235.69, 100.00%, 32.75%, 529
-25366, 0xff16000ca7, Normal, 22, Pouncing, Left, Black, 0, 12, 167, 235.69, 100.00%, 32.75%, 530
-25367, 0xff17000ca7, Normal, 23, Stalking, Left, White, 0, 12, 167, 235.69, 100.00%, 32.75%, 531
-25368, 0xff18000ca7, Normal, 24, Standing, Left, Black, 0, 12, 167, 235.69, 100.00%, 32.75%, 532
-25369, 0xff19000ca7, Normal, 25, Sleeping, Left, White, 0, 12, 167, 235.69, 100.00%, 32.75%, 533
-25370, 0xff1a000ca7, Normal, 26, Pouncing, Left, Black, 0, 12, 167, 235.69, 100.00%, 32.75%, 534
-25371, 0xff1b000ca7, Normal, 27, Stalking, Left, White, 0, 12, 167, 235.69, 100.00%, 32.75%, 535
-25372, 0xff1c000ca7, Normal, 28, Standing, Left, Black, 0, 12, 167, 235.69, 100.00%, 32.75%, 536
-25373, 0xff1d000ca7, Normal, 29, Sleeping, Left, White, 0, 12, 167, 235.69, 100.00%, 32.75%, 537
-25374, 0xff1e000ca7, Normal, 30, Pouncing, Left, Black, 0, 12, 167, 235.69, 100.00%, 32.75%, 538
-25375, 0xff1f000ca7, Normal, 31, Stalking, Left, White, 0, 12, 167, 235.69, 100.00%, 32.75%, 539
-25376, 0xff20000ca7, Normal, 32, Standing, Left, Black, 0, 12, 167, 235.69, 100.00%, 32.75%, 1102
-25377, 0xff21000ca7, Normal, 33, Sleeping, Left, White, 0, 12, 167, 235.69, 100.00%, 32.75%, 1103
-25378, 0xff22000ca7, Normal, 34, Pouncing, Left, Black, 0, 12, 167, 235.69, 100.00%, 32.75%, 1104
-25379, 0xff23000ca7, Normal, 35, Stalking, Left, White, 0, 12, 167, 235.69, 100.00%, 32.75%, 1105
-25380, 0xff24000ca7, Normal, 36, Standing, Left, Black, 0, 12, 167, 235.69, 100.00%, 32.75%, 1106
-25381, 0xff25000ca7, Normal, 37, Sleeping, Left, White, 0, 12, 167, 235.69, 100.00%, 32.75%, 1107
-25382, 0xff26000ca7, Normal, 38, Pouncing, Left, Black, 0, 12, 167, 235.69, 100.00%, 32.75%, 1108
-25383, 0xff27000ca7, Normal, 39, Stalking, Left, White, 0, 12, 167, 235.69, 100.00%, 32.75%, 1109
-25384, 0xff28000ca7, Normal, 40, Standing, Left, Black, 0, 12, 167, 235.69, 100.00%, 32.75%, 1110
-25385, 0xff29000ca7, Normal, 41, Sleeping, Left, White, 0, 12, 167, 235.69, 100.00%, 32.75%, 1111
-25386, 0xff2a000ca7, Normal, 42, Pouncing, Left, Black, 0, 12, 167, 235.69, 100.00%, 32.75%, 1112
-25387, 0xff2b000ca7, Normal, 43, Stalking, Left, White, 0, 12, 167, 235.69, 100.00%, 32.75%, 1113
-25388, 0xff2c000ca7, Normal, 44, Standing, Left, Black, 0, 12, 167, 235.69, 100.00%, 32.75%, 1114
-25389, 0xff2d000ca7, Normal, 45, Sleeping, Left, White, 0, 12, 167, 235.69, 100.00%, 32.75%, 1115
-25390, 0xff2e000ca7, Normal, 46, Pouncing, Left, Black, 0, 12, 167, 235.69, 100.00%, 32.75%, 1116
-25391, 0xff2f000ca7, Normal, 47, Stalking, Left, White, 0, 12, 167, 235.69, 100.00%, 32.75%, 1117
-25392, 0xff30000ca7, Normal, 48, Standing, Left, Black, 0, 12, 167, 235.69, 100.00%, 32.75%, 1749
-25393, 0xff31000ca7, Normal, 49, Sleeping, Left, White, 0, 12, 167, 235.69, 100.00%, 32.75%, 1750
-25394, 0xff32000ca7, Normal, 50, Pouncing, Left, Black, 0, 12, 167, 235.69, 100.00%, 32.75%, 1751
-25395, 0xff33000ca7, Normal, 51, Stalking, Left, White, 0, 12, 167, 235.69, 100.00%, 32.75%, 1752
-25396, 0xff34000ca7, Normal, 52, Standing, Left, Black, 0, 12, 167, 235.69, 100.00%, 32.75%, 1753
-25397, 0xff35000ca7, Normal, 53, Sleeping, Left, White, 0, 12, 167, 235.69, 100.00%, 32.75%, 1754
-25398, 0xff36000ca7, Normal, 54, Pouncing, Left, Black, 0, 12, 167, 235.69, 100.00%, 32.75%, 1755
-25399, 0xff37000ca7, Normal, 55, Stalking, Left, White, 0, 12, 167, 235.69, 100.00%, 32.75%, 1756
-25400, 0xff38000ca7, Normal, 56, Standing, Left, Black, 0, 12, 167, 235.69, 100.00%, 32.75%, 1757
-25401, 0xff39000ca7, Normal, 57, Sleeping, Left, White, 0, 12, 167, 235.69, 100.00%, 32.75%, 1758
-25402, 0xff3a000ca7, Normal, 58, Pouncing, Left, Black, 0, 12, 167, 235.69, 100.00%, 32.75%, 1759
-25403, 0xff3b000ca7, Normal, 59, Stalking, Left, White, 0, 12, 167, 235.69, 100.00%, 32.75%, 1760
-25404, 0xff3c000ca7, Normal, 60, Standing, Left, Black, 0, 12, 167, 235.69, 100.00%, 32.75%, 1761
-25405, 0xff3d000ca7, Normal, 61, Sleeping, Left, White, 0, 12, 167, 235.69, 100.00%, 32.75%, 1762
-25406, 0xff3e000ca7, Normal, 62, Pouncing, Left, Black, 0, 12, 167, 235.69, 100.00%, 32.75%, 1763
-25407, 0xff3f000ca7, Normal, 63, Stalking, Left, White, 0, 12, 167, 235.69, 100.00%, 32.75%, 1764
-25408, 0xff40000ca7, Normal, 64, Standing, Right, Black, 0, 12, 167, 235.69, 100.00%, 32.75%, 2364
-25409, 0xff41000ca7, Normal, 65, Sleeping, Right, White, 0, 12, 167, 235.69, 100.00%, 32.75%, 2365
-25410, 0xff42000ca7, Normal, 66, Pouncing, Right, Black, 0, 12, 167, 235.69, 100.00%, 32.75%, 2366
-25411, 0xff43000ca7, Normal, 67, Stalking, Right, White, 0, 12, 167, 235.69, 100.00%, 32.75%, 2367
-25412, 0xff44000ca7, Normal, 68, Standing, Right, Black, 0, 12, 167, 235.69, 100.00%, 32.75%, 2368
-25413, 0xff45000ca7, Normal, 69, Sleeping, Right, White, 0, 12, 167, 235.69, 100.00%, 32.75%, 2369
-25414, 0xff46000ca7, Normal, 70, Pouncing, Right, Black, 0, 12, 167, 235.69, 100.00%, 32.75%, 2370
-25415, 0xff47000ca7, Normal, 71, Stalking, Right, White, 0, 12, 167, 235.69, 100.00%, 32.75%, 2371
-25416, 0xff48000ca7, Normal, 72, Standing, Right, Black, 0, 12, 167, 235.69, 100.00%, 32.75%, 2372
-25417, 0xff49000ca7, Normal, 73, Sleeping, Right, White, 0, 12, 167, 235.69, 100.00%, 32.75%, 2373
-25418, 0xff4a000ca7, Normal, 74, Pouncing, Right, Black, 0, 12, 167, 235.69, 100.00%, 32.75%, 2374
-25419, 0xff4b000ca7, Normal, 75, Stalking, Right, White, 0, 12, 167, 235.69, 100.00%, 32.75%, 2375
-25420, 0xff4c000ca7, Normal, 76, Standing, Right, Black, 0, 12, 167, 235.69, 100.00%, 32.75%, 2376
-25421, 0xff4d000ca7, Normal, 77, Sleeping, Right, White, 0, 12, 167, 235.69, 100.00%, 32.75%, 2377
-25422, 0xff4e000ca7, Normal, 78, Pouncing, Right, Black, 0, 12, 167, 235.69, 100.00%, 32.75%, 2378
-25423, 0xff4f000ca7, Normal, 79, Stalking, Right, White, 0, 12, 167, 235.69, 100.00%, 32.75%, 2379
-25424, 0xff50000ca7, Normal, 80, Standing, Right, Black, 0, 12, 167, 235.69, 100.00%, 32.75%, 2876
-25425, 0xff51000ca7, Normal, 81, Sleeping, Right, White, 0, 12, 167, 235.69, 100.00%, 32.75%, 2877
-25426, 0xff52000ca7, Normal, 82, Pouncing, Right, Black, 0, 12, 167, 235.69, 100.00%, 32.75%, 2878
-25427, 0xff53000ca7, Normal, 83, Stalking, Right, White, 0, 12, 167, 235.69, 100.00%, 32.75%, 2879
-25428, 0xff54000ca7, Normal, 84, Standing, Right, Black, 0, 12, 167, 235.69, 100.00%, 32.75%, 2880
-25429, 0xff55000ca7, Normal, 85, Sleeping, Right, White, 0, 12, 167, 235.69, 100.00%, 32.75%, 2881
-25430, 0xff56000ca7, Normal, 86, Pouncing, Right, Black, 0, 12, 167, 235.69, 100.00%, 32.75%, 2882
-25431, 0xff57000ca7, Normal, 87, Stalking, Right, White, 0, 12, 167, 235.69, 100.00%, 32.75%, 2883
-25432, 0xff58000ca7, Normal, 88, Standing, Right, Black, 0, 12, 167, 235.69, 100.00%, 32.75%, 2884
-25433, 0xff59000ca7, Normal, 89, Sleeping, Right, White, 0, 12, 167, 235.69, 100.00%, 32.75%, 2885
-25434, 0xff5a000ca7, Normal, 90, Pouncing, Right, Black, 0, 12, 167, 235.69, 100.00%, 32.75%, 2886
-25435, 0xff5b000ca7, Normal, 91, Stalking, Right, White, 0, 12, 167, 235.69, 100.00%, 32.75%, 2887
-25436, 0xff5c000ca7, Normal, 92, Standing, Right, Black, 0, 12, 167, 235.69, 100.00%, 32.75%, 2888
-25437, 0xff5d000ca7, Normal, 93, Sleeping, Right, White, 0, 12, 167, 235.69, 100.00%, 32.75%, 2889
-25438, 0xff5e000ca7, Normal, 94, Pouncing, Right, Black, 0, 12, 167, 235.69, 100.00%, 32.75%, 2890
-25439, 0xff5f000ca7, Normal, 95, Stalking, Right, White, 0, 12, 167, 235.69, 100.00%, 32.75%, 2891
+row, id, palette, pattern, pose, facing, face, fur, color, r, g, b, hue, sat, lum, mint
+25000, 0x00fcbd430b, Inverted, 60, Standing, Right, Flat Whiskers, Half/Half, Red, 189, 67, 11, 18.88°, 89.00%, 39.22%, 3663
+25001, 0x00fcbe0edd, Inverted, 60, Standing, Right, Flat Whiskers, Half/Half, Purple, 190, 14, 221, 291.01°, 88.09%, 46.08%, 19276
+25002, 0x00fcbf7c8a, Inverted, 60, Standing, Right, Flat Whiskers, Half/Half, Fuscia, 191, 124, 138, 347.46°, 34.36%, 61.76%, 11222
+25003, 0x00fcc4122a, Inverted, 60, Standing, Right, Flat Whiskers, Half/Half, Fuscia, 196, 18, 42, 351.91°, 83.18%, 41.96%, 18741
+25004, 0x00fcc5f84f, Inverted, 60, Standing, Right, Flat Whiskers, Half/Half, Yellow, 197, 248, 79, 78.11°, 92.35%, 64.12%, 24680
+25005, 0x00fcc610a6, Inverted, 60, Standing, Right, Flat Whiskers, Half/Half, Magenta, 198, 16, 166, 310.55°, 85.05%, 41.96%, 10051
+25006, 0x00fcc6f4e3, Inverted, 60, Standing, Right, Flat Whiskers, Half/Half, Lime Green, 198, 244, 227, 157.83°, 67.65%, 86.67%, 6172
+25007, 0x00fcce5192, Inverted, 60, Standing, Right, Flat Whiskers, Half/Half, Magenta, 206, 81, 146, 328.80°, 56.05%, 56.27%, 5068
+25008, 0x00fcd0cf64, Inverted, 60, Standing, Right, Flat Whiskers, Half/Half, Orange, 208, 207, 100, 59.44°, 53.47%, 60.39%, 1026
+25009, 0x00fcd25ee4, Inverted, 60, Standing, Right, Flat Whiskers, Half/Half, Purple, 210, 94, 228, 291.94°, 71.28%, 63.14%, 11959
+25010, 0x00fcd3401e, Inverted, 60, Standing, Right, Flat Whiskers, Half/Half, Red, 211, 64, 30, 11.27°, 75.10%, 47.25%, 16776
+25011, 0x00fcd3540c, Inverted, 60, Standing, Right, Flat Whiskers, Half/Half, Red, 211, 84, 12, 21.71°, 89.24%, 43.73%, 11802
+25012, 0x00fcd465c7, Inverted, 60, Standing, Right, Flat Whiskers, Half/Half, Magenta, 212, 101, 199, 307.03°, 56.35%, 61.37%, 17200
+25013, 0x00fcd5c32b, Inverted, 60, Standing, Right, Flat Whiskers, Half/Half, Orange, 213, 195, 43, 53.65°, 66.93%, 50.20%, 24666
+25014, 0x00fcd7835e, Inverted, 60, Standing, Right, Flat Whiskers, Half/Half, Red, 215, 131, 94, 18.35°, 60.20%, 60.59%, 3290
+25015, 0x00fce17716, Inverted, 60, Standing, Right, Flat Whiskers, Half/Half, Red, 225, 119, 22, 28.67°, 82.19%, 48.43%, 11417
+25016, 0x00fce21cbf, Inverted, 60, Standing, Right, Flat Whiskers, Half/Half, Magenta, 226, 28, 191, 310.61°, 77.95%, 49.80%, 23467
+25017, 0x00fce37266, Inverted, 60, Standing, Right, Flat Whiskers, Half/Half, Red, 227, 114, 102, 5.76°, 69.06%, 64.51%, 15164
+25018, 0x00fce5135d, Inverted, 60, Standing, Right, Flat Whiskers, Half/Half, Fuscia, 229, 19, 93, 338.86°, 84.68%, 48.63%, 18076
+25019, 0x00fcebe723, Inverted, 60, Standing, Right, Flat Whiskers, Half/Half, Orange, 235, 231, 35, 58.80°, 83.33%, 52.94%, 15150
+25020, 0x00fcecc329, Inverted, 60, Standing, Right, Flat Whiskers, Half/Half, Orange, 236, 195, 41, 47.38°, 83.69%, 54.31%, 22345
+25021, 0x00fcfb0221, Inverted, 60, Standing, Right, Flat Whiskers, Half/Half, Fuscia, 251, 2, 33, 352.53°, 98.42%, 49.61%, 14453
+25022, 0x00fcfba629, Inverted, 60, Standing, Right, Flat Whiskers, Half/Half, Orange, 251, 166, 41, 35.71°, 96.33%, 57.25%, 14643
+25023, 0x00fcfd0622, Inverted, 60, Standing, Right, Flat Whiskers, Half/Half, Fuscia, 253, 6, 34, 353.20°, 98.41%, 50.78%, 4674
+25024, 0x00fcfd1209, Inverted, 60, Standing, Right, Flat Whiskers, Half/Half, Red, 253, 18, 9, 2.21°, 98.39%, 51.37%, 23276
+25025, 0x00fcffb5e3, Inverted, 60, Standing, Right, Flat Whiskers, Half/Half, Magenta, 255, 181, 227, 322.70°, 100.00%, 85.49%, 10832
+25026, 0x00fcffd578, Inverted, 60, Standing, Right, Flat Whiskers, Half/Half, Orange, 255, 213, 120, 41.33°, 100.00%, 73.53%, 22551
+25027, 0x00fcffe7c2, Inverted, 60, Standing, Right, Flat Whiskers, Half/Half, Orange, 255, 231, 194, 36.39°, 100.00%, 88.04%, 16278
+25028, 0x00fd00e3c2, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Lime Green, 0, 227, 194, 171.28°, 100.00%, 44.51%, 1308
+25029, 0x00fd05b5ec, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Cyan, 5, 181, 236, 194.29°, 95.85%, 47.25%, 7459
+25030, 0x00fd08720f, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Green, 8, 114, 15, 123.96°, 86.89%, 23.92%, 3542
+25031, 0x00fd0d5010, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Green, 13, 80, 16, 122.69°, 72.04%, 18.24%, 15940
+25032, 0x00fd107223, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Green, 16, 114, 35, 131.63°, 75.38%, 25.49%, 15465
+25033, 0x00fd121a3e, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Sky Blue, 18, 26, 62, 229.09°, 55.00%, 15.69%, 11487
+25034, 0x00fd12adf9, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Cyan, 18, 173, 249, 199.74°, 95.06%, 52.35%, 20716
+25035, 0x00fd1c3c9b, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Sky Blue, 28, 60, 155, 224.88°, 69.40%, 35.88%, 3642
+25036, 0x00fd1d9109, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Chartreuse, 29, 145, 9, 111.18°, 88.31%, 30.20%, 10742
+25037, 0x00fd1e5f56, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Lime Green, 30, 95, 86, 171.69°, 52.00%, 24.51%, 17325
+25038, 0x00fd1f7a6d, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Lime Green, 31, 122, 109, 171.43°, 59.48%, 30.00%, 4037
+25039, 0x00fd1fd5df, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Cyan, 31, 213, 223, 183.12°, 75.59%, 49.80%, 8943
+25040, 0x00fd21e2d8, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Lime Green, 33, 226, 216, 176.89°, 76.89%, 50.78%, 7111
+25041, 0x00fd3103f6, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Blue, 49, 3, 246, 251.36°, 97.59%, 48.82%, 19995
+25042, 0x00fd3884a7, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Cyan, 56, 132, 167, 198.92°, 49.78%, 43.73%, 16237
+25043, 0x00fd39b6e5, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Cyan, 57, 182, 229, 196.40°, 76.79%, 56.08%, 6276
+25044, 0x00fd3a14fc, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Blue, 58, 20, 252, 249.83°, 97.48%, 53.33%, 6753
+25045, 0x00fd3d9b2c, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Chartreuse, 61, 155, 44, 110.81°, 55.78%, 39.02%, 5776
+25046, 0x00fd3f803e, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Chartreuse, 63, 128, 62, 119.09°, 34.74%, 37.25%, 694
+25047, 0x00fd4693d4, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Cyan, 70, 147, 212, 207.46°, 62.28%, 55.29%, 21174
+25048, 0x00fd4bfdd5, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Lime Green, 75, 253, 213, 166.52°, 97.80%, 64.31%, 19840
+25049, 0x00fd51896d, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Lime Green, 81, 137, 109, 150.00°, 25.69%, 42.75%, 6556
+25050, 0x00fd53968f, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Lime Green, 83, 150, 143, 173.73°, 28.76%, 45.69%, 5713
+25051, 0x00fd58d4f9, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Cyan, 88, 212, 249, 193.79°, 93.06%, 66.08%, 11471
+25052, 0x00fd5b6405, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Yellow, 91, 100, 5, 65.68°, 90.48%, 20.59%, 21926
+25053, 0x00fd60849b, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Cyan, 96, 132, 155, 203.39°, 23.51%, 49.22%, 21485
+25054, 0x00fd641ac1, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Blue, 100, 26, 193, 266.59°, 76.26%, 42.94%, 21167
+25055, 0x00fd651cb0, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Blue, 101, 28, 176, 269.59°, 72.55%, 40.00%, 16016
+25056, 0x00fd681496, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Purple, 104, 20, 150, 278.77°, 76.47%, 33.33%, 24817
+25057, 0x00fd6e88ea, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Sky Blue, 110, 136, 234, 227.42°, 74.70%, 67.45%, 22762
+25058, 0x00fd722eea, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Blue, 114, 46, 234, 261.70°, 81.74%, 54.90%, 2581
+25059, 0x00fd731e2e, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Fuscia, 115, 30, 46, 348.71°, 58.62%, 28.43%, 7308
+25060, 0x00fd798a7e, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Green, 121, 138, 126, 137.65°, 6.77%, 50.78%, 1856
+25061, 0x00fd7a6446, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Orange, 122, 100, 70, 34.62°, 27.08%, 37.65%, 14099
+25062, 0x00fd7b7ef6, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Sky Blue, 123, 126, 246, 238.54°, 87.23%, 72.35%, 18357
+25063, 0x00fd7c2253, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Magenta, 124, 34, 83, 327.33°, 56.96%, 30.98%, 24296
+25064, 0x00fd7c24f4, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Blue, 124, 36, 244, 265.38°, 90.43%, 54.90%, 8397
+25065, 0x00fd7cbd02, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Yellow, 124, 189, 2, 80.86°, 97.91%, 37.45%, 23037
+25066, 0x00fd7ce348, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Chartreuse, 124, 227, 72, 99.87°, 73.46%, 58.63%, 15328
+25067, 0x00fd7cfc04, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Chartreuse, 124, 252, 4, 90.97°, 97.64%, 50.20%, 5697
+25068, 0x00fd7d4112, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Red, 125, 65, 18, 26.36°, 74.83%, 28.04%, 15298
+25069, 0x00fd8023e9, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Blue, 128, 35, 233, 268.18°, 81.82%, 52.55%, 5870
+25070, 0x00fd83dc18, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Yellow, 131, 220, 24, 87.24°, 80.33%, 47.84%, 20702
+25071, 0x00fd849b6d, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Yellow, 132, 155, 109, 90.00°, 18.70%, 51.76%, 7430
+25072, 0x00fd8a58b1, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Purple, 138, 88, 177, 273.71°, 36.33%, 51.96%, 984
+25073, 0x00fd8f3cdd, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Purple, 143, 60, 221, 270.93°, 70.31%, 55.10%, 15210
+25074, 0x00fd93ea04, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Yellow, 147, 234, 4, 82.70°, 96.64%, 46.67%, 9656
+25075, 0x00fd946e22, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Orange, 148, 110, 34, 40.00°, 62.64%, 35.69%, 18185
+25076, 0x00fd96b711, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Yellow, 150, 183, 17, 71.93°, 83.00%, 39.22%, 25113
+25077, 0x00fd97626e, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Fuscia, 151, 98, 110, 346.42°, 21.29%, 48.82%, 15599
+25078, 0x00fd976398, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Purple, 151, 99, 152, 298.87°, 21.12%, 49.22%, 10756
+25079, 0x00fd9788f3, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Blue, 151, 136, 243, 248.41°, 81.68%, 74.31%, 21233
+25080, 0x00fd981df4, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Purple, 152, 29, 244, 274.33°, 90.72%, 53.53%, 13430
+25081, 0x00fd996d81, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Fuscia, 153, 109, 129, 332.73°, 17.74%, 51.37%, 10271
+25082, 0x00fd9a41ba, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Purple, 154, 65, 186, 284.13°, 48.21%, 49.22%, 10655
+25083, 0x00fd9cb4b5, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Cyan, 156, 180, 181, 182.40°, 14.45%, 66.08%, 7412
+25084, 0x00fd9e1b8b, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Magenta, 158, 27, 139, 308.70°, 70.81%, 36.27%, 14455
+25085, 0x00fdad337e, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Magenta, 173, 51, 126, 323.11°, 54.46%, 43.92%, 4762
+25086, 0x00fdb10d9c, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Magenta, 177, 13, 156, 307.68°, 86.32%, 37.25%, 1186
+25087, 0x00fdb16d5f, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Red, 177, 109, 95, 10.24°, 34.45%, 53.33%, 21252
+25088, 0x00fdb3904b, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Orange, 179, 144, 75, 39.81°, 40.94%, 49.80%, 20906
+25089, 0x00fdbad020, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Yellow, 186, 208, 32, 67.50°, 73.33%, 47.06%, 4158
+25090, 0x00fdc23a27, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Red, 194, 58, 39, 7.35°, 66.52%, 45.69%, 10431
+25091, 0x00fdc2f539, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Yellow, 194, 245, 57, 76.28°, 90.38%, 59.22%, 23669
+25092, 0x00fdc493dd, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Purple, 196, 147, 221, 279.73°, 52.11%, 72.16%, 10576
+25093, 0x00fdc58cd8, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Purple, 197, 140, 216, 285.00°, 49.35%, 69.80%, 13142
+25094, 0x00fdd2d25d, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Yellow, 210, 210, 93, 60.00°, 56.52%, 59.41%, 15214
+25095, 0x00fdd33ab9, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Magenta, 211, 58, 185, 310.20°, 63.49%, 52.75%, 3910
+25096, 0x00fdd4f7fd, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Cyan, 212, 247, 253, 188.78°, 91.11%, 91.18%, 17688
+25097, 0x00fdd5633c, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Red, 213, 99, 60, 15.29°, 64.56%, 53.53%, 18773
+25098, 0x00fdd7f358, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Yellow, 215, 243, 88, 70.84°, 86.59%, 64.90%, 6727
+25099, 0x00fddbad98, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Red, 219, 173, 152, 18.81°, 48.20%, 72.75%, 19785
+25100, 0x00fddc38d3, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Magenta, 220, 56, 211, 303.29°, 70.09%, 54.12%, 17160
+25101, 0x00fddf524c, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Red, 223, 82, 76, 2.45°, 69.67%, 58.63%, 15755
+25102, 0x00fddf9483, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Red, 223, 148, 131, 11.09°, 58.97%, 69.41%, 23255
+25103, 0x00fddfad2d, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Orange, 223, 173, 45, 43.15°, 73.55%, 52.55%, 12189
+25104, 0x00fde205e7, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Purple, 226, 5, 231, 298.67°, 95.76%, 46.27%, 15098
+25105, 0x00fde7e702, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Yellow, 231, 231, 2, 60.00°, 98.28%, 45.69%, 3009
+25106, 0x00fdebf3a1, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Yellow, 235, 243, 161, 65.85°, 77.36%, 79.22%, 23466
+25107, 0x00fdef41cc, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Magenta, 239, 65, 204, 312.07°, 84.47%, 59.61%, 21321
+25108, 0x00fdf05753, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Red, 240, 87, 83, 1.53°, 83.96%, 63.33%, 11715
+25109, 0x00fdf901a0, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Magenta, 249, 1, 160, 321.53°, 99.20%, 49.02%, 1073
+25110, 0x00fdfa7ac4, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Magenta, 250, 122, 196, 325.31°, 92.75%, 72.94%, 21053
+25111, 0x00fdfb719b, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Fuscia, 251, 113, 155, 341.74°, 94.52%, 71.37%, 2292
+25112, 0x00fdfbef6b, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Orange, 251, 239, 107, 55.00°, 94.74%, 70.20%, 13971
+25113, 0x00fdfd83df, Inverted, 61, Sleeping, Right, Flat Whiskers, Half/Half, Magenta, 253, 131, 223, 314.75°, 96.83%, 75.29%, 11681
+25114, 0x00fe087067, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Lime Green, 8, 112, 103, 174.81°, 86.67%, 23.53%, 25190
+25115, 0x00fe08bd32, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Green, 8, 189, 50, 133.92°, 91.88%, 38.63%, 12829
+25116, 0x00fe09f4cb, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Lime Green, 9, 244, 203, 169.53°, 92.89%, 49.61%, 5213
+25117, 0x00fe0d8b81, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Lime Green, 13, 139, 129, 175.24°, 82.89%, 29.80%, 21175
+25118, 0x00fe0ef7e1, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Lime Green, 14, 247, 225, 174.33°, 93.57%, 51.18%, 25345
+25119, 0x00fe114384, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Sky Blue, 17, 67, 132, 213.91°, 77.18%, 29.22%, 20687
+25120, 0x00fe14d6f8, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Cyan, 20, 214, 248, 188.95°, 94.21%, 52.55%, 6816
+25121, 0x00fe14fcbc, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Lime Green, 20, 252, 188, 163.45°, 97.48%, 53.33%, 1210
+25122, 0x00fe16c09c, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Lime Green, 22, 192, 156, 167.29°, 79.44%, 41.96%, 9207
+25123, 0x00fe170d28, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Blue, 23, 13, 40, 262.22°, 50.94%, 10.39%, 13503
+25124, 0x00fe1910c5, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Blue, 25, 16, 197, 242.98°, 84.98%, 41.76%, 17278
+25125, 0x00fe19d6e7, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Cyan, 25, 214, 231, 184.95°, 81.10%, 50.20%, 5433
+25126, 0x00fe1d197a, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Blue, 29, 25, 122, 242.47°, 65.99%, 28.82%, 8552
+25127, 0x00fe1dd709, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Chartreuse, 29, 215, 9, 114.17°, 91.96%, 43.92%, 13506
+25128, 0x00fe1ea68c, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Lime Green, 30, 166, 140, 168.53°, 69.39%, 38.43%, 21246
+25129, 0x00fe20478a, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Sky Blue, 32, 71, 138, 217.92°, 62.35%, 33.33%, 22691
+25130, 0x00fe20aff3, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Cyan, 32, 175, 243, 199.34°, 89.79%, 53.92%, 17566
+25131, 0x00fe20b6ed, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Cyan, 32, 182, 237, 196.10°, 85.06%, 52.75%, 6382
+25132, 0x00fe2147e5, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Sky Blue, 33, 71, 229, 228.37°, 79.03%, 51.37%, 17022
+25133, 0x00fe21ef76, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Green, 33, 239, 118, 144.76°, 86.55%, 53.33%, 7692
+25134, 0x00fe230600, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Red, 35, 6, 0, 10.29°, 100.00%, 6.86%, 13794
+25135, 0x00fe26d6b9, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Lime Green, 38, 214, 185, 170.11°, 69.84%, 49.41%, 6160
+25136, 0x00fe29721e, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Chartreuse, 41, 114, 30, 112.14°, 58.33%, 28.24%, 3058
+25137, 0x00fe2a1c39, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Blue, 42, 28, 57, 268.97°, 34.12%, 16.67%, 2145
+25138, 0x00fe2c97a4, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Cyan, 44, 151, 164, 186.50°, 57.69%, 40.78%, 3426
+25139, 0x00fe2e22d2, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Blue, 46, 34, 210, 244.09°, 72.13%, 47.84%, 8565
+25140, 0x00fe3016c4, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Blue, 48, 22, 196, 248.97°, 79.82%, 42.75%, 9129
+25141, 0x00fe38eb2f, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Chartreuse, 56, 235, 47, 117.13°, 82.46%, 55.29%, 4628
+25142, 0x00fe3fa12b, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Chartreuse, 63, 161, 43, 109.83°, 57.84%, 40.00%, 9372
+25143, 0x00fe470a35, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Magenta, 71, 10, 53, 317.70°, 75.31%, 15.88%, 4752
+25144, 0x00fe48ddfd, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Cyan, 72, 221, 253, 190.61°, 97.84%, 63.73%, 8682
+25145, 0x00fe497895, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Cyan, 73, 120, 149, 202.89°, 34.23%, 43.53%, 19049
+25146, 0x00fe49b7c2, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Cyan, 73, 183, 194, 185.45°, 49.79%, 52.35%, 24706
+25147, 0x00fe50e7c2, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Lime Green, 80, 231, 194, 165.30°, 75.88%, 60.98%, 24298
+25148, 0x00fe51e0b9, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Lime Green, 81, 224, 185, 163.64°, 69.76%, 59.80%, 6325
+25149, 0x00fe54c1e3, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Cyan, 84, 193, 227, 194.27°, 71.86%, 60.98%, 10503
+25150, 0x00fe56759d, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Sky Blue, 86, 117, 157, 213.80°, 29.22%, 47.65%, 17021
+25151, 0x00fe57218e, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Blue, 87, 33, 142, 269.72°, 62.29%, 34.31%, 20649
+25152, 0x00fe58beee, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Cyan, 88, 190, 238, 199.20°, 81.52%, 63.92%, 15674
+25153, 0x00fe5b6239, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Yellow, 91, 98, 57, 70.24°, 26.45%, 30.39%, 3235
+25154, 0x00fe5f1444, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Magenta, 95, 20, 68, 321.60°, 65.22%, 22.55%, 6656
+25155, 0x00fe60fb47, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Chartreuse, 96, 251, 71, 111.67°, 95.74%, 63.14%, 4306
+25156, 0x00fe62f668, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Green, 98, 246, 104, 122.43°, 89.16%, 67.45%, 224
+25157, 0x00fe665e62, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Fuscia, 102, 94, 98, 330.00°, 4.08%, 38.43%, 5047
+25158, 0x00fe695de4, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Blue, 105, 93, 228, 245.33°, 71.43%, 62.94%, 4933
+25159, 0x00fe69d693, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Green, 105, 214, 147, 143.12°, 57.07%, 62.55%, 18333
+25160, 0x00fe6d2c55, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Magenta, 109, 44, 85, 322.15°, 42.48%, 30.00%, 22974
+25161, 0x00fe6f8eaa, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Cyan, 111, 142, 170, 208.47°, 25.76%, 55.10%, 17261
+25162, 0x00fe726682, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Blue, 114, 102, 130, 265.71°, 12.07%, 45.49%, 11762
+25163, 0x00fe7502a4, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Purple, 117, 2, 164, 282.59°, 97.59%, 32.55%, 13641
+25164, 0x00fe763a7d, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Purple, 118, 58, 125, 293.73°, 36.61%, 35.88%, 17699
+25165, 0x00fe77e7fe, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Cyan, 119, 231, 254, 190.22°, 98.54%, 73.14%, 2851
+25166, 0x00fe7839e6, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Blue, 120, 57, 230, 261.85°, 77.58%, 56.27%, 18479
+25167, 0x00fe793902, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Red, 121, 57, 2, 27.73°, 96.75%, 24.12%, 23859
+25168, 0x00fe7ca0dd, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Sky Blue, 124, 160, 221, 217.73°, 58.79%, 67.65%, 17437
+25169, 0x00fe7d48ec, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Blue, 125, 72, 236, 259.39°, 81.19%, 60.39%, 23384
+25170, 0x00fe7dbebf, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Cyan, 125, 190, 191, 180.91°, 34.02%, 61.96%, 14909
+25171, 0x00fe7ea90b, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Yellow, 126, 169, 11, 76.33°, 87.78%, 35.29%, 15636
+25172, 0x00fe826dac, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Blue, 130, 109, 172, 260.00°, 27.51%, 55.10%, 23256
+25173, 0x00fe829b09, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Yellow, 130, 155, 9, 70.27°, 89.02%, 32.16%, 4505
+25174, 0x00fe8403b5, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Purple, 132, 3, 181, 283.48°, 96.74%, 36.08%, 13860
+25175, 0x00fe8edb88, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Chartreuse, 142, 219, 136, 115.66°, 53.55%, 69.61%, 9006
+25176, 0x00fe8fd15c, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Chartreuse, 143, 209, 92, 93.85°, 55.98%, 59.02%, 6937
+25177, 0x00fe926517, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Orange, 146, 101, 23, 38.05°, 72.78%, 33.14%, 15064
+25178, 0x00fe9463d0, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Blue, 148, 99, 208, 266.97°, 53.69%, 60.20%, 13881
+25179, 0x00fe95e84c, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Chartreuse, 149, 232, 76, 91.92°, 77.23%, 60.39%, 23341
+25180, 0x00fe98be26, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Yellow, 152, 190, 38, 75.00°, 66.67%, 44.71%, 16654
+25181, 0x00fe99725d, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Red, 153, 114, 93, 21.00°, 24.39%, 48.24%, 11618
+25182, 0x00fe9d21d3, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Purple, 157, 33, 211, 281.80°, 72.95%, 47.84%, 12551
+25183, 0x00fe9edafa, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Cyan, 158, 218, 250, 200.87°, 90.20%, 80.00%, 19017
+25184, 0x00fea0759a, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Magenta, 160, 117, 154, 308.37°, 18.45%, 54.31%, 24900
+25185, 0x00fea119d7, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Purple, 161, 25, 215, 282.95°, 79.17%, 47.06%, 11175
+25186, 0x00fea1517f, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Magenta, 161, 81, 127, 325.50°, 33.06%, 47.45%, 3428
+25187, 0x00fea3140c, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Red, 163, 20, 12, 3.18°, 86.29%, 34.31%, 9912
+25188, 0x00fea3dd9c, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Chartreuse, 163, 221, 156, 113.54°, 48.87%, 73.92%, 13552
+25189, 0x00fea4df09, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Yellow, 164, 223, 9, 76.54°, 92.24%, 45.49%, 2591
+25190, 0x00feaad2a5, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Chartreuse, 170, 210, 165, 113.33°, 33.33%, 73.53%, 21296
+25191, 0x00feab7e47, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Orange, 171, 126, 71, 33.00°, 41.32%, 47.45%, 3885
+25192, 0x00feab941a, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Orange, 171, 148, 26, 50.48°, 73.60%, 38.63%, 4778
+25193, 0x00feacd85c, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Yellow, 172, 216, 92, 81.29°, 61.39%, 60.39%, 20667
+25194, 0x00feb0704c, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Red, 176, 112, 76, 21.60°, 39.68%, 49.41%, 1697
+25195, 0x00feb0765c, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Red, 176, 118, 92, 18.57°, 34.71%, 52.55%, 1712
+25196, 0x00feb59b39, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Orange, 181, 155, 57, 47.42°, 52.10%, 46.67%, 21820
+25197, 0x00feb7a5ab, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Fuscia, 183, 165, 171, 340.00°, 11.11%, 68.24%, 2107
+25198, 0x00febaad18, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Orange, 186, 173, 24, 55.19°, 77.14%, 41.18%, 18039
+25199, 0x00febc609d, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Magenta, 188, 96, 157, 320.22°, 40.71%, 55.69%, 12473
+25200, 0x00febce253, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Yellow, 188, 226, 83, 75.94°, 71.14%, 60.59%, 17436
+25201, 0x00febed9a1, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Yellow, 190, 217, 161, 88.93°, 42.42%, 74.12%, 21295
+25202, 0x00fec32bd0, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Purple, 195, 43, 208, 295.27°, 65.74%, 49.22%, 10480
+25203, 0x00fec630e5, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Purple, 198, 48, 229, 289.72°, 77.68%, 54.31%, 5640
+25204, 0x00fec72a00, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Red, 199, 42, 0, 12.66°, 100.00%, 39.02%, 8631
+25205, 0x00fec79443, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Orange, 199, 148, 67, 36.82°, 54.10%, 52.16%, 16226
+25206, 0x00fecb13e1, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Purple, 203, 19, 225, 293.59°, 84.43%, 47.84%, 6214
+25207, 0x00fecbaeb6, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Fuscia, 203, 174, 182, 343.45°, 21.80%, 73.92%, 9571
+25208, 0x00fecc148b, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Magenta, 204, 20, 139, 321.20°, 82.14%, 43.92%, 14921
+25209, 0x00fecc57a7, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Magenta, 204, 87, 167, 318.97°, 53.42%, 57.06%, 1133
+25210, 0x00fecc9365, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Red, 204, 147, 101, 26.80°, 50.24%, 59.80%, 25302
+25211, 0x00fed0746e, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Red, 208, 116, 110, 3.67°, 51.04%, 62.35%, 17209
+25212, 0x00fed827b8, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Magenta, 216, 39, 184, 310.85°, 69.41%, 50.00%, 2431
+25213, 0x00fed9824b, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Red, 217, 130, 75, 23.24°, 65.14%, 57.25%, 16743
+25214, 0x00feda82cf, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Magenta, 218, 130, 207, 307.50°, 54.32%, 68.24%, 7022
+25215, 0x00fedb9c48, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Orange, 219, 156, 72, 34.29°, 67.12%, 57.06%, 11455
+25216, 0x00fedcaab7, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Fuscia, 220, 170, 183, 344.40°, 41.67%, 76.47%, 23804
+25217, 0x00fedcb3ff, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Purple, 220, 179, 255, 272.37°, 100.00%, 85.10%, 1129
+25218, 0x00fedcf029, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Yellow, 220, 240, 41, 66.03°, 86.90%, 55.10%, 14474
+25219, 0x00fee01b62, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Fuscia, 224, 27, 98, 338.38°, 78.49%, 49.22%, 6132
+25220, 0x00fee5ad2b, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Orange, 229, 173, 43, 41.94°, 78.15%, 53.33%, 20057
+25221, 0x00fee5edc0, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Yellow, 229, 237, 192, 70.67°, 55.56%, 84.12%, 2499
+25222, 0x00fee60980, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Magenta, 230, 9, 128, 327.69°, 92.47%, 46.86%, 19793
+25223, 0x00fee6fbe1, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Chartreuse, 230, 251, 225, 108.46°, 76.47%, 93.33%, 7147
+25224, 0x00fee864f0, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Purple, 232, 100, 240, 296.57°, 82.35%, 66.67%, 15824
+25225, 0x00feea4e71, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Fuscia, 234, 78, 113, 346.54°, 78.79%, 61.18%, 8557
+25226, 0x00feea76ac, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Fuscia, 234, 118, 172, 332.07°, 73.42%, 69.02%, 4333
+25227, 0x00feed362b, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Red, 237, 54, 43, 3.40°, 84.35%, 54.90%, 23355
+25228, 0x00feefac8e, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Red, 239, 172, 142, 18.56°, 75.19%, 74.71%, 5033
+25229, 0x00feefed8c, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Orange, 239, 237, 140, 58.79°, 75.57%, 74.31%, 9004
+25230, 0x00fef10ab7, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Magenta, 241, 10, 183, 315.06°, 92.03%, 49.22%, 17220
+25231, 0x00fef1fc45, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Yellow, 241, 252, 69, 63.61°, 96.83%, 62.94%, 2446
+25232, 0x00fef2e051, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Orange, 242, 224, 81, 53.29°, 86.10%, 63.33%, 23828
+25233, 0x00fef7fd29, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Yellow, 247, 253, 41, 61.70°, 98.15%, 57.65%, 19822
+25234, 0x00fefb0003, Inverted, 62, Pouncing, Right, Flat Whiskers, Half/Half, Fuscia, 251, 0, 3, 359.28°, 100.00%, 49.22%, 9527
+25235, 0x00ff018170, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Lime Green, 1, 129, 112, 172.03°, 98.46%, 25.49%, 2454
+25236, 0x00ff04c1c0, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Lime Green, 4, 193, 192, 179.68°, 95.94%, 38.63%, 3319
+25237, 0x00ff08a894, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Lime Green, 8, 168, 148, 172.50°, 90.91%, 34.51%, 5817
+25238, 0x00ff095ea1, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Cyan, 9, 94, 161, 206.45°, 89.41%, 33.33%, 3745
+25239, 0x00ff0af4e6, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Lime Green, 10, 244, 230, 176.41°, 92.13%, 49.80%, 17698
+25240, 0x00ff0df95f, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Green, 13, 249, 95, 140.85°, 95.16%, 51.37%, 13217
+25241, 0x00ff0ea808, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Chartreuse, 14, 168, 8, 117.75°, 90.91%, 34.51%, 2134
+25242, 0x00ff0eff87, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Lime Green, 14, 255, 135, 150.12°, 100.00%, 52.75%, 2715
+25243, 0x00ff114239, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Lime Green, 17, 66, 57, 168.98°, 59.04%, 16.27%, 22894
+25244, 0x00ff173edd, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Sky Blue, 23, 62, 221, 228.18°, 81.15%, 47.84%, 12986
+25245, 0x00ff185a81, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Cyan, 24, 90, 129, 202.29°, 68.63%, 30.00%, 4845
+25246, 0x00ff18f391, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Lime Green, 24, 243, 145, 153.15°, 90.12%, 52.35%, 20371
+25247, 0x00ff1a523b, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Lime Green, 26, 82, 59, 155.36°, 51.85%, 21.18%, 6714
+25248, 0x00ff1aed17, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Chartreuse, 26, 237, 23, 119.16°, 85.60%, 50.98%, 2928
+25249, 0x00ff1c50ac, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Sky Blue, 28, 80, 172, 218.33°, 72.00%, 39.22%, 20531
+25250, 0x00ff1cfc56, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Green, 28, 252, 86, 135.54°, 97.39%, 54.90%, 4413
+25251, 0x00ff1f26a1, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Sky Blue, 31, 38, 161, 236.77°, 67.71%, 37.65%, 13726
+25252, 0x00ff1f4141, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Cyan, 31, 65, 65, 180.00°, 35.42%, 18.82%, 9901
+25253, 0x00ff21c2fd, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Cyan, 33, 194, 253, 196.09°, 98.21%, 56.08%, 20823
+25254, 0x00ff221ede, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Blue, 34, 30, 222, 241.25°, 76.19%, 49.41%, 19733
+25255, 0x00ff23398e, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Sky Blue, 35, 57, 142, 227.66°, 60.45%, 34.71%, 9631
+25256, 0x00ff241e90, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Blue, 36, 30, 144, 243.16°, 65.52%, 34.12%, 9939
+25257, 0x00ff247685, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Cyan, 36, 118, 133, 189.28°, 57.40%, 33.14%, 9879
+25258, 0x00ff3018c3, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Blue, 48, 24, 195, 248.42°, 78.08%, 42.94%, 7633
+25259, 0x00ff3fd4d1, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Lime Green, 63, 212, 209, 178.79°, 63.40%, 53.92%, 4767
+25260, 0x00ff438b15, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Chartreuse, 67, 139, 21, 96.61°, 73.75%, 31.37%, 3019
+25261, 0x00ff4455b9, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Sky Blue, 68, 85, 185, 231.28°, 46.25%, 49.61%, 6035
+25262, 0x00ff468aff, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Sky Blue, 70, 138, 255, 217.95°, 100.00%, 63.73%, 3364
+25263, 0x00ff4f0793, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Purple, 79, 7, 147, 270.86°, 90.91%, 30.20%, 15259
+25264, 0x00ff514d48, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Orange, 81, 77, 72, 33.33°, 5.88%, 30.00%, 20565
+25265, 0x00ff52322b, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Red, 82, 50, 43, 10.77°, 31.20%, 24.51%, 17069
+25266, 0x00ff5373c3, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Sky Blue, 83, 115, 195, 222.86°, 48.28%, 54.51%, 24556
+25267, 0x00ff5a20c9, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Blue, 90, 32, 201, 260.59°, 72.53%, 45.69%, 19530
+25268, 0x00ff5b4ada, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Blue, 91, 74, 218, 247.08°, 66.06%, 57.25%, 24945
+25269, 0x00ff5d3c44, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Fuscia, 93, 60, 68, 345.45°, 21.57%, 30.00%, 11115
+25270, 0x00ff5e7197, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Sky Blue, 94, 113, 151, 220.00°, 23.27%, 48.04%, 24186
+25271, 0x00ff5f2e72, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Purple, 95, 46, 114, 283.24°, 42.50%, 31.37%, 5448
+25272, 0x00ff622904, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Red, 98, 41, 4, 23.62°, 92.16%, 20.00%, 16720
+25273, 0x00ff626c50, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Yellow, 98, 108, 80, 81.43°, 14.89%, 36.86%, 22123
+25274, 0x00ff636f37, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Yellow, 99, 111, 55, 72.86°, 33.73%, 32.55%, 21352
+25275, 0x00ff64e3ff, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Cyan, 100, 227, 255, 190.84°, 100.00%, 69.61%, 12003
+25276, 0x00ff661c09, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Red, 102, 28, 9, 12.26°, 83.78%, 21.76%, 7229
+25277, 0x00ff6a5156, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Fuscia, 106, 81, 86, 348.00°, 13.37%, 36.67%, 10755
+25278, 0x00ff6aab3f, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Chartreuse, 106, 171, 63, 96.11°, 46.15%, 45.88%, 3222
+25279, 0x00ff6b27ae, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Purple, 107, 39, 174, 270.22°, 63.38%, 41.76%, 5685
+25280, 0x00ff6b6227, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Orange, 107, 98, 39, 52.06°, 46.58%, 28.63%, 25375
+25281, 0x00ff71ed7b, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Green, 113, 237, 123, 124.84°, 77.50%, 68.63%, 22759
+25282, 0x00ff753601, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Red, 117, 54, 1, 27.41°, 98.31%, 23.14%, 10572
+25283, 0x00ff75d200, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Yellow, 117, 210, 0, 86.57°, 100.00%, 41.18%, 6166
+25284, 0x00ff7675b1, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Blue, 118, 117, 177, 241.00°, 27.78%, 57.65%, 19491
+25285, 0x00ff7778db, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Sky Blue, 119, 120, 219, 239.40°, 58.14%, 66.27%, 8037
+25286, 0x00ff7a4e8e, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Purple, 122, 78, 142, 281.25°, 29.09%, 43.14%, 13280
+25287, 0x00ff7aac8d, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Green, 122, 172, 141, 142.80°, 23.15%, 57.65%, 19147
+25288, 0x00ff7b268a, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Purple, 123, 38, 138, 291.00°, 56.82%, 34.51%, 5232
+25289, 0x00ff7b7493, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Blue, 123, 116, 147, 253.55°, 12.55%, 51.57%, 4
+25290, 0x00ff7f634d, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Red, 127, 99, 77, 26.40°, 24.51%, 40.00%, 11880
+25291, 0x00ff7fed02, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Yellow, 127, 237, 2, 88.09°, 98.33%, 46.86%, 10551
+25292, 0x00ff846c7c, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Magenta, 132, 108, 124, 320.00°, 10.00%, 47.06%, 6797
+25293, 0x00ff8791a2, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Sky Blue, 135, 145, 162, 217.78°, 12.68%, 58.24%, 14337
+25294, 0x00ff87ce04, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Yellow, 135, 206, 4, 81.09°, 96.19%, 41.18%, 22734
+25295, 0x00ff8bd7bf, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Lime Green, 139, 215, 191, 161.05°, 48.72%, 69.41%, 11518
+25296, 0x00ff8d8bc4, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Blue, 141, 139, 196, 242.11°, 32.57%, 65.69%, 132
+25297, 0x00ff8d9206, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Yellow, 141, 146, 6, 62.14°, 92.11%, 29.80%, 947
+25298, 0x00ff8df569, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Chartreuse, 141, 245, 105, 104.57°, 87.50%, 68.63%, 20744
+25299, 0x00ff95110c, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Red, 149, 17, 12, 2.19°, 85.09%, 31.57%, 15025
+25300, 0x00ff988c36, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Orange, 152, 140, 54, 52.65°, 47.57%, 40.39%, 4693
+25301, 0x00ff9abb88, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Chartreuse, 154, 187, 136, 98.82°, 27.27%, 63.33%, 19669
+25302, 0x00ff9b5705, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Orange, 155, 87, 5, 32.80°, 93.75%, 31.37%, 12445
+25303, 0x00ffa11f35, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Fuscia, 161, 31, 53, 349.85°, 67.71%, 37.65%, 5112
+25304, 0x00ffa144e0, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Purple, 161, 68, 224, 275.77°, 71.56%, 57.25%, 22781
+25305, 0x00ffa1a9b1, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Sky Blue, 161, 169, 177, 210.00°, 9.30%, 66.27%, 6442
+25306, 0x00ffa37d25, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Orange, 163, 125, 37, 41.90°, 63.00%, 39.22%, 9859
+25307, 0x00ffa5d9a6, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Green, 165, 217, 166, 121.15°, 40.62%, 74.90%, 19473
+25308, 0x00ffa6bc72, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Yellow, 166, 188, 114, 77.84°, 35.58%, 59.22%, 10295
+25309, 0x00ffa92744, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Fuscia, 169, 39, 68, 346.62°, 62.50%, 40.78%, 19442
+25310, 0x00ffadb0b3, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Sky Blue, 173, 176, 179, 210.00°, 3.80%, 69.02%, 8536
+25311, 0x00ffaea0a5, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Fuscia, 174, 160, 165, 338.57°, 7.95%, 65.49%, 19443
+25312, 0x00ffaedc7f, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Yellow, 174, 220, 127, 89.68°, 57.06%, 68.04%, 21154
+25313, 0x00ffb4ac69, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Orange, 180, 172, 105, 53.60°, 33.33%, 55.88%, 12280
+25314, 0x00ffb60337, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Fuscia, 182, 3, 55, 342.57°, 96.76%, 36.27%, 20763
+25315, 0x00ffb77865, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Red, 183, 120, 101, 13.90°, 36.28%, 55.69%, 8425
+25316, 0x00ffbdf0b6, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Chartreuse, 189, 240, 182, 112.76°, 65.91%, 82.75%, 14477
+25317, 0x00ffbeb5e2, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Blue, 190, 181, 226, 252.00°, 43.69%, 79.80%, 14190
+25318, 0x00ffc5dacd, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Green, 197, 218, 205, 142.86°, 22.11%, 81.37%, 7353
+25319, 0x00ffc7e832, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Yellow, 199, 232, 50, 70.88°, 79.82%, 55.29%, 6418
+25320, 0x00ffc8d214, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Yellow, 200, 210, 20, 63.16°, 82.61%, 45.10%, 18589
+25321, 0x00ffc9191c, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Fuscia, 201, 25, 28, 358.98°, 77.88%, 44.31%, 9565
+25322, 0x00ffca49ef, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Purple, 202, 73, 239, 286.63°, 83.84%, 61.18%, 20761
+25323, 0x00ffccff81, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Yellow, 204, 255, 129, 84.29°, 100.00%, 75.29%, 4049
+25324, 0x00ffcddc8a, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Yellow, 205, 220, 138, 70.98°, 53.95%, 70.20%, 18342
+25325, 0x00ffd2c40f, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Orange, 210, 196, 15, 55.69°, 86.67%, 44.12%, 19080
+25326, 0x00ffd4003b, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Fuscia, 212, 0, 59, 343.30°, 100.00%, 41.57%, 14535
+25327, 0x00ffd74a4e, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Fuscia, 215, 74, 78, 358.30°, 63.80%, 56.67%, 3225
+25328, 0x00ffd888f5, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Purple, 216, 136, 245, 284.04°, 84.50%, 74.71%, 21409
+25329, 0x00ffd958c2, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Magenta, 217, 88, 194, 310.70°, 62.93%, 59.80%, 5761
+25330, 0x00ffda2dda, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Magenta, 218, 45, 218, 300.00°, 70.04%, 51.57%, 8428
+25331, 0x00ffdf5e32, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Red, 223, 94, 50, 15.26°, 73.00%, 53.53%, 15375
+25332, 0x00ffe28af6, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Purple, 226, 138, 246, 288.89°, 85.71%, 75.29%, 15700
+25333, 0x00ffe51966, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Fuscia, 229, 25, 102, 337.35°, 80.31%, 49.80%, 14575
+25334, 0x00ffe785f4, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Purple, 231, 133, 244, 292.97°, 83.46%, 73.92%, 16574
+25335, 0x00ffea1267, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Fuscia, 234, 18, 103, 336.39°, 85.71%, 49.41%, 18545
+25336, 0x00ffea9a81, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Red, 234, 154, 129, 14.29°, 71.43%, 71.18%, 23346
+25337, 0x00fff07350, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Red, 240, 115, 80, 13.12°, 84.21%, 62.75%, 9952
+25338, 0x00fff13744, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Fuscia, 241, 55, 68, 355.81°, 86.92%, 58.04%, 16355
+25339, 0x00fff32bb7, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Magenta, 243, 43, 183, 318.00°, 89.29%, 56.08%, 8363
+25340, 0x00fff42d6b, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Fuscia, 244, 45, 107, 341.31°, 90.05%, 56.67%, 22546
+25341, 0x00fff8ca90, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Orange, 248, 202, 144, 33.46°, 88.14%, 76.86%, 20210
+25342, 0x00fffadd32, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Orange, 250, 221, 50, 51.30°, 95.24%, 58.82%, 18395
+25343, 0x00ffffbe74, Inverted, 63, Stalking, Right, Flat Whiskers, Half/Half, Orange, 255, 190, 116, 31.94°, 100.00%, 72.75%, 23076
+25344, 0xff00000ca7, Normal, 0, Standing, Left, Smile, Solid, Black, 0, 12, 167, 235.69°, 100.00%, 32.75%, 84
+25345, 0xff01000ca7, Normal, 1, Sleeping, Left, Smile, Solid, White, 0, 12, 167, 235.69°, 100.00%, 32.75%, 85
+25346, 0xff02000ca7, Normal, 2, Pouncing, Left, Smile, Solid, Black, 0, 12, 167, 235.69°, 100.00%, 32.75%, 86
+25347, 0xff03000ca7, Normal, 3, Stalking, Left, Smile, Solid, White, 0, 12, 167, 235.69°, 100.00%, 32.75%, 87
+25348, 0xff04000ca7, Normal, 4, Standing, Left, Smile, Striped, Black, 0, 12, 167, 235.69°, 100.00%, 32.75%, 88
+25349, 0xff05000ca7, Normal, 5, Sleeping, Left, Smile, Striped, White, 0, 12, 167, 235.69°, 100.00%, 32.75%, 89
+25350, 0xff06000ca7, Normal, 6, Pouncing, Left, Smile, Striped, Black, 0, 12, 167, 235.69°, 100.00%, 32.75%, 90
+25351, 0xff07000ca7, Normal, 7, Stalking, Left, Smile, Striped, White, 0, 12, 167, 235.69°, 100.00%, 32.75%, 91
+25352, 0xff08000ca7, Normal, 8, Standing, Left, Smile, Eyepatch, Black, 0, 12, 167, 235.69°, 100.00%, 32.75%, 92
+25353, 0xff09000ca7, Normal, 9, Sleeping, Left, Smile, Eyepatch, White, 0, 12, 167, 235.69°, 100.00%, 32.75%, 93
+25354, 0xff0a000ca7, Normal, 10, Pouncing, Left, Smile, Eyepatch, Black, 0, 12, 167, 235.69°, 100.00%, 32.75%, 94
+25355, 0xff0b000ca7, Normal, 11, Stalking, Left, Smile, Eyepatch, White, 0, 12, 167, 235.69°, 100.00%, 32.75%, 95
+25356, 0xff0c000ca7, Normal, 12, Standing, Left, Smile, Half/Half, Black, 0, 12, 167, 235.69°, 100.00%, 32.75%, 96
+25357, 0xff0d000ca7, Normal, 13, Sleeping, Left, Smile, Half/Half, White, 0, 12, 167, 235.69°, 100.00%, 32.75%, 97
+25358, 0xff0e000ca7, Normal, 14, Pouncing, Left, Smile, Half/Half, Black, 0, 12, 167, 235.69°, 100.00%, 32.75%, 98
+25359, 0xff0f000ca7, Normal, 15, Stalking, Left, Smile, Half/Half, White, 0, 12, 167, 235.69°, 100.00%, 32.75%, 99
+25360, 0xff10000ca7, Normal, 16, Standing, Left, Frown (Look Down), Solid, Black, 0, 12, 167, 235.69°, 100.00%, 32.75%, 524
+25361, 0xff11000ca7, Normal, 17, Sleeping, Left, Frown (Look Down), Solid, White, 0, 12, 167, 235.69°, 100.00%, 32.75%, 525
+25362, 0xff12000ca7, Normal, 18, Pouncing, Left, Frown (Look Down), Solid, Black, 0, 12, 167, 235.69°, 100.00%, 32.75%, 526
+25363, 0xff13000ca7, Normal, 19, Stalking, Left, Frown (Look Down), Solid, White, 0, 12, 167, 235.69°, 100.00%, 32.75%, 527
+25364, 0xff14000ca7, Normal, 20, Standing, Left, Frown (Look Down), Striped, Black, 0, 12, 167, 235.69°, 100.00%, 32.75%, 528
+25365, 0xff15000ca7, Normal, 21, Sleeping, Left, Frown (Look Down), Striped, White, 0, 12, 167, 235.69°, 100.00%, 32.75%, 529
+25366, 0xff16000ca7, Normal, 22, Pouncing, Left, Frown (Look Down), Striped, Black, 0, 12, 167, 235.69°, 100.00%, 32.75%, 530
+25367, 0xff17000ca7, Normal, 23, Stalking, Left, Frown (Look Down), Striped, White, 0, 12, 167, 235.69°, 100.00%, 32.75%, 531
+25368, 0xff18000ca7, Normal, 24, Standing, Left, Frown (Look Down), Eyepatch, Black, 0, 12, 167, 235.69°, 100.00%, 32.75%, 532
+25369, 0xff19000ca7, Normal, 25, Sleeping, Left, Frown (Look Down), Eyepatch, White, 0, 12, 167, 235.69°, 100.00%, 32.75%, 533
+25370, 0xff1a000ca7, Normal, 26, Pouncing, Left, Frown (Look Down), Eyepatch, Black, 0, 12, 167, 235.69°, 100.00%, 32.75%, 534
+25371, 0xff1b000ca7, Normal, 27, Stalking, Left, Frown (Look Down), Eyepatch, White, 0, 12, 167, 235.69°, 100.00%, 32.75%, 535
+25372, 0xff1c000ca7, Normal, 28, Standing, Left, Frown (Look Down), Half/Half, Black, 0, 12, 167, 235.69°, 100.00%, 32.75%, 536
+25373, 0xff1d000ca7, Normal, 29, Sleeping, Left, Frown (Look Down), Half/Half, White, 0, 12, 167, 235.69°, 100.00%, 32.75%, 537
+25374, 0xff1e000ca7, Normal, 30, Pouncing, Left, Frown (Look Down), Half/Half, Black, 0, 12, 167, 235.69°, 100.00%, 32.75%, 538
+25375, 0xff1f000ca7, Normal, 31, Stalking, Left, Frown (Look Down), Half/Half, White, 0, 12, 167, 235.69°, 100.00%, 32.75%, 539
+25376, 0xff20000ca7, Normal, 32, Standing, Left, Frown (Look Up), Solid, Black, 0, 12, 167, 235.69°, 100.00%, 32.75%, 1102
+25377, 0xff21000ca7, Normal, 33, Sleeping, Left, Frown (Look Up), Solid, White, 0, 12, 167, 235.69°, 100.00%, 32.75%, 1103
+25378, 0xff22000ca7, Normal, 34, Pouncing, Left, Frown (Look Up), Solid, Black, 0, 12, 167, 235.69°, 100.00%, 32.75%, 1104
+25379, 0xff23000ca7, Normal, 35, Stalking, Left, Frown (Look Up), Solid, White, 0, 12, 167, 235.69°, 100.00%, 32.75%, 1105
+25380, 0xff24000ca7, Normal, 36, Standing, Left, Frown (Look Up), Striped, Black, 0, 12, 167, 235.69°, 100.00%, 32.75%, 1106
+25381, 0xff25000ca7, Normal, 37, Sleeping, Left, Frown (Look Up), Striped, White, 0, 12, 167, 235.69°, 100.00%, 32.75%, 1107
+25382, 0xff26000ca7, Normal, 38, Pouncing, Left, Frown (Look Up), Striped, Black, 0, 12, 167, 235.69°, 100.00%, 32.75%, 1108
+25383, 0xff27000ca7, Normal, 39, Stalking, Left, Frown (Look Up), Striped, White, 0, 12, 167, 235.69°, 100.00%, 32.75%, 1109
+25384, 0xff28000ca7, Normal, 40, Standing, Left, Frown (Look Up), Eyepatch, Black, 0, 12, 167, 235.69°, 100.00%, 32.75%, 1110
+25385, 0xff29000ca7, Normal, 41, Sleeping, Left, Frown (Look Up), Eyepatch, White, 0, 12, 167, 235.69°, 100.00%, 32.75%, 1111
+25386, 0xff2a000ca7, Normal, 42, Pouncing, Left, Frown (Look Up), Eyepatch, Black, 0, 12, 167, 235.69°, 100.00%, 32.75%, 1112
+25387, 0xff2b000ca7, Normal, 43, Stalking, Left, Frown (Look Up), Eyepatch, White, 0, 12, 167, 235.69°, 100.00%, 32.75%, 1113
+25388, 0xff2c000ca7, Normal, 44, Standing, Left, Frown (Look Up), Half/Half, Black, 0, 12, 167, 235.69°, 100.00%, 32.75%, 1114
+25389, 0xff2d000ca7, Normal, 45, Sleeping, Left, Frown (Look Up), Half/Half, White, 0, 12, 167, 235.69°, 100.00%, 32.75%, 1115
+25390, 0xff2e000ca7, Normal, 46, Pouncing, Left, Frown (Look Up), Half/Half, Black, 0, 12, 167, 235.69°, 100.00%, 32.75%, 1116
+25391, 0xff2f000ca7, Normal, 47, Stalking, Left, Frown (Look Up), Half/Half, White, 0, 12, 167, 235.69°, 100.00%, 32.75%, 1117
+25392, 0xff30000ca7, Normal, 48, Standing, Left, Flat Whiskers, Solid, Black, 0, 12, 167, 235.69°, 100.00%, 32.75%, 1749
+25393, 0xff31000ca7, Normal, 49, Sleeping, Left, Flat Whiskers, Solid, White, 0, 12, 167, 235.69°, 100.00%, 32.75%, 1750
+25394, 0xff32000ca7, Normal, 50, Pouncing, Left, Flat Whiskers, Solid, Black, 0, 12, 167, 235.69°, 100.00%, 32.75%, 1751
+25395, 0xff33000ca7, Normal, 51, Stalking, Left, Flat Whiskers, Solid, White, 0, 12, 167, 235.69°, 100.00%, 32.75%, 1752
+25396, 0xff34000ca7, Normal, 52, Standing, Left, Flat Whiskers, Striped, Black, 0, 12, 167, 235.69°, 100.00%, 32.75%, 1753
+25397, 0xff35000ca7, Normal, 53, Sleeping, Left, Flat Whiskers, Striped, White, 0, 12, 167, 235.69°, 100.00%, 32.75%, 1754
+25398, 0xff36000ca7, Normal, 54, Pouncing, Left, Flat Whiskers, Striped, Black, 0, 12, 167, 235.69°, 100.00%, 32.75%, 1755
+25399, 0xff37000ca7, Normal, 55, Stalking, Left, Flat Whiskers, Striped, White, 0, 12, 167, 235.69°, 100.00%, 32.75%, 1756
+25400, 0xff38000ca7, Normal, 56, Standing, Left, Flat Whiskers, Eyepatch, Black, 0, 12, 167, 235.69°, 100.00%, 32.75%, 1757
+25401, 0xff39000ca7, Normal, 57, Sleeping, Left, Flat Whiskers, Eyepatch, White, 0, 12, 167, 235.69°, 100.00%, 32.75%, 1758
+25402, 0xff3a000ca7, Normal, 58, Pouncing, Left, Flat Whiskers, Eyepatch, Black, 0, 12, 167, 235.69°, 100.00%, 32.75%, 1759
+25403, 0xff3b000ca7, Normal, 59, Stalking, Left, Flat Whiskers, Eyepatch, White, 0, 12, 167, 235.69°, 100.00%, 32.75%, 1760
+25404, 0xff3c000ca7, Normal, 60, Standing, Left, Flat Whiskers, Half/Half, Black, 0, 12, 167, 235.69°, 100.00%, 32.75%, 1761
+25405, 0xff3d000ca7, Normal, 61, Sleeping, Left, Flat Whiskers, Half/Half, White, 0, 12, 167, 235.69°, 100.00%, 32.75%, 1762
+25406, 0xff3e000ca7, Normal, 62, Pouncing, Left, Flat Whiskers, Half/Half, Black, 0, 12, 167, 235.69°, 100.00%, 32.75%, 1763
+25407, 0xff3f000ca7, Normal, 63, Stalking, Left, Flat Whiskers, Half/Half, White, 0, 12, 167, 235.69°, 100.00%, 32.75%, 1764
+25408, 0xff40000ca7, Normal, 0, Standing, Right, Smile, Solid, Black, 0, 12, 167, 235.69°, 100.00%, 32.75%, 2364
+25409, 0xff41000ca7, Normal, 1, Sleeping, Right, Smile, Solid, White, 0, 12, 167, 235.69°, 100.00%, 32.75%, 2365
+25410, 0xff42000ca7, Normal, 2, Pouncing, Right, Smile, Solid, Black, 0, 12, 167, 235.69°, 100.00%, 32.75%, 2366
+25411, 0xff43000ca7, Normal, 3, Stalking, Right, Smile, Solid, White, 0, 12, 167, 235.69°, 100.00%, 32.75%, 2367
+25412, 0xff44000ca7, Normal, 4, Standing, Right, Smile, Striped, Black, 0, 12, 167, 235.69°, 100.00%, 32.75%, 2368
+25413, 0xff45000ca7, Normal, 5, Sleeping, Right, Smile, Striped, White, 0, 12, 167, 235.69°, 100.00%, 32.75%, 2369
+25414, 0xff46000ca7, Normal, 6, Pouncing, Right, Smile, Striped, Black, 0, 12, 167, 235.69°, 100.00%, 32.75%, 2370
+25415, 0xff47000ca7, Normal, 7, Stalking, Right, Smile, Striped, White, 0, 12, 167, 235.69°, 100.00%, 32.75%, 2371
+25416, 0xff48000ca7, Normal, 8, Standing, Right, Smile, Eyepatch, Black, 0, 12, 167, 235.69°, 100.00%, 32.75%, 2372
+25417, 0xff49000ca7, Normal, 9, Sleeping, Right, Smile, Eyepatch, White, 0, 12, 167, 235.69°, 100.00%, 32.75%, 2373
+25418, 0xff4a000ca7, Normal, 10, Pouncing, Right, Smile, Eyepatch, Black, 0, 12, 167, 235.69°, 100.00%, 32.75%, 2374
+25419, 0xff4b000ca7, Normal, 11, Stalking, Right, Smile, Eyepatch, White, 0, 12, 167, 235.69°, 100.00%, 32.75%, 2375
+25420, 0xff4c000ca7, Normal, 12, Standing, Right, Smile, Half/Half, Black, 0, 12, 167, 235.69°, 100.00%, 32.75%, 2376
+25421, 0xff4d000ca7, Normal, 13, Sleeping, Right, Smile, Half/Half, White, 0, 12, 167, 235.69°, 100.00%, 32.75%, 2377
+25422, 0xff4e000ca7, Normal, 14, Pouncing, Right, Smile, Half/Half, Black, 0, 12, 167, 235.69°, 100.00%, 32.75%, 2378
+25423, 0xff4f000ca7, Normal, 15, Stalking, Right, Smile, Half/Half, White, 0, 12, 167, 235.69°, 100.00%, 32.75%, 2379
+25424, 0xff50000ca7, Normal, 16, Standing, Right, Frown (Look Down), Solid, Black, 0, 12, 167, 235.69°, 100.00%, 32.75%, 2876
+25425, 0xff51000ca7, Normal, 17, Sleeping, Right, Frown (Look Down), Solid, White, 0, 12, 167, 235.69°, 100.00%, 32.75%, 2877
+25426, 0xff52000ca7, Normal, 18, Pouncing, Right, Frown (Look Down), Solid, Black, 0, 12, 167, 235.69°, 100.00%, 32.75%, 2878
+25427, 0xff53000ca7, Normal, 19, Stalking, Right, Frown (Look Down), Solid, White, 0, 12, 167, 235.69°, 100.00%, 32.75%, 2879
+25428, 0xff54000ca7, Normal, 20, Standing, Right, Frown (Look Down), Striped, Black, 0, 12, 167, 235.69°, 100.00%, 32.75%, 2880
+25429, 0xff55000ca7, Normal, 21, Sleeping, Right, Frown (Look Down), Striped, White, 0, 12, 167, 235.69°, 100.00%, 32.75%, 2881
+25430, 0xff56000ca7, Normal, 22, Pouncing, Right, Frown (Look Down), Striped, Black, 0, 12, 167, 235.69°, 100.00%, 32.75%, 2882
+25431, 0xff57000ca7, Normal, 23, Stalking, Right, Frown (Look Down), Striped, White, 0, 12, 167, 235.69°, 100.00%, 32.75%, 2883
+25432, 0xff58000ca7, Normal, 24, Standing, Right, Frown (Look Down), Eyepatch, Black, 0, 12, 167, 235.69°, 100.00%, 32.75%, 2884
+25433, 0xff59000ca7, Normal, 25, Sleeping, Right, Frown (Look Down), Eyepatch, White, 0, 12, 167, 235.69°, 100.00%, 32.75%, 2885
+25434, 0xff5a000ca7, Normal, 26, Pouncing, Right, Frown (Look Down), Eyepatch, Black, 0, 12, 167, 235.69°, 100.00%, 32.75%, 2886
+25435, 0xff5b000ca7, Normal, 27, Stalking, Right, Frown (Look Down), Eyepatch, White, 0, 12, 167, 235.69°, 100.00%, 32.75%, 2887
+25436, 0xff5c000ca7, Normal, 28, Standing, Right, Frown (Look Down), Half/Half, Black, 0, 12, 167, 235.69°, 100.00%, 32.75%, 2888
+25437, 0xff5d000ca7, Normal, 29, Sleeping, Right, Frown (Look Down), Half/Half, White, 0, 12, 167, 235.69°, 100.00%, 32.75%, 2889
+25438, 0xff5e000ca7, Normal, 30, Pouncing, Right, Frown (Look Down), Half/Half, Black, 0, 12, 167, 235.69°, 100.00%, 32.75%, 2890
+25439, 0xff5f000ca7, Normal, 31, Stalking, Right, Frown (Look Down), Half/Half, White, 0, 12, 167, 235.69°, 100.00%, 32.75%, 2891
