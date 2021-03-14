@@ -34,11 +34,12 @@ csv datafiles by ids:
 
 
 
-Q: Why 25440 and not ?
 
-A: check/verify - some genesis mooncat (blocks) still unreleased?
-or dataset incomplete??
+Color of genesis cats ?
 
-Genesis cats are not "rescued" but rather "released" by the contract owners. 
-If those original project owners re-emerge, they'd have the ability to release more Genesis cats.
+Genesis MoonCats
+During our first scouting expedition we found 256 unique MoonCats cloistered in the moonbase, we suspect they are direct descendants of the Genesis MoonCats. How the first pair got to the moon, we may never know. Blame the astronauts. Anyway, unlike any of their lunar surface brethren these are the only MoonCats that have coats of deep black and milky white.
 
+As the rescue operation progresses we will be processing these adorable little guys and putting them up for adoption. Based on our preliminary analysis it appears that 64 of them are pure black or white, and the rest have coats which are adorably mottled with grey.
+
+source: <https://mooncatrescue.com/>
