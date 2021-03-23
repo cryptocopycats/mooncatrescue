@@ -153,6 +153,15 @@ To quote the re-emerged contract owner (Ponderware):
 >
 >  -- [Ponderware](https://twitter.com/ponderware/status/1370945005641158659)
 
+Update:
+
+> The community has spoken. With a final outcome of YES: 944 NO: 367, 
+> the devs will destroy their private key to the MoonCatRescue contract. 
+> The contract will be left as found. 
+> The remaining Genesis MoonCats will never be released and will continue to live happily on the moon.
+>
+>  -- [Ponderware](https://twitter.com/ponderware/status/1373992233180004358)
+
 
 
 
