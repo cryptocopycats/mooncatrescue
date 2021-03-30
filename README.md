@@ -47,11 +47,11 @@ Example - [`00.csv`](00.csv):
 
 ```
 row, id,           palette, design, pose, facing, face, fur, color,    ... mint
-0,   0x0000020886, Normal, 0, Standing, Left, Smile, Solid, Sky Blue,   ... 2679
-1,   0x000002f63e, Normal, 0, Standing, Left, Smile, Solid, Green,      ... 13869
-2,   0x000004683b, Normal, 0, Standing, Left, Smile, Solid, Lime Green, ... 24457
+0,   0x0000020886, Normal, 0, Standing, Left, Smile, Solid, Blue,       ... 2679
+1,   0x000002f63e, Normal, 0, Standing, Left, Smile, Solid, Teal,       ... 13869
+2,   0x000004683b, Normal, 0, Standing, Left, Smile, Solid, Teal,       ... 24457
 3,   0x0000048998, Normal, 0, Standing, Left, Smile, Solid, Cyan,       ... 22386
-4,   0x000006ce5d, Normal, 0, Standing, Left, Smile, Solid, Green,      ... 7933
+4,   0x000006ce5d, Normal, 0, Standing, Left, Smile, Solid, Teal,       ... 7933
 ...
 ```
 
